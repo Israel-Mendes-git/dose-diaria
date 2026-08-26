@@ -20,7 +20,6 @@ mkdirSync(outDir, { recursive: true });
 const BLUE = [0x25, 0x63, 0xeb];
 const NAVY = [0x1e, 0x3a, 0x8a];
 const PAGE = [0xf8, 0xfa, 0xfc];
-const ORANGE = [0xea, 0x74, 0x0a];
 const TRANSPARENT = [0, 0, 0, 0];
 
 const SUPERSAMPLE = 4;
@@ -44,7 +43,8 @@ function sample(u, v) {
   if (!insideRoundedRect(u, v, 0.06, 0.12, 0.94, 0.94, 0.14)) return TRANSPARENT;
   if (v < 0.34) return [...NAVY, 255];
   if (!insideRoundedRect(u, v, 0.14, 0.42, 0.86, 0.86, 0.04)) return [...BLUE, 255];
-  if (insideRoundedRect(u, v, 0.4, 0.56, 0.6, 0.76, 0.03)) return [...ORANGE, 255];
+  // A folha fica em branco de propósito: o dia do mês é carimbado em runtime
+  // por chrome.action.setIcon, para o ícone da barra mostrar a data de hoje.
   return [...PAGE, 255];
 }
 

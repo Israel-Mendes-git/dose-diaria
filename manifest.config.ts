@@ -14,13 +14,16 @@ export default defineManifest({
     48: "icons/icon48.png",
     128: "icons/icon128.png",
   },
-  permissions: ["notifications"],
+  // "alarms" mantém o selo e o ícone corretos quando o navegador atravessa a
+  // virada do dia aberto — sem ele, ambos ficariam parados no dia anterior.
+  permissions: ["notifications", "alarms"],
   background: {
     service_worker: "src/background/main.ts",
     type: "module",
   },
   action: {
-    default_title: "Ver a data comemorativa de hoje",
+    default_title: "Ver as datas comemorativas de hoje",
+    default_popup: "src/popup/index.html",
   },
   browser_specific_settings: {
     gecko: {

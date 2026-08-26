@@ -2,19 +2,12 @@ import {
   TYPE_LABELS,
   element,
   entriesFor,
-  formatFullDate,
+  formatShortDate,
   resolveTargetDate,
 } from "../shared/dates";
 import type { CommemorativeDate } from "../types";
 
-function renderHeader(target: Date): HTMLElement {
-  const header = element("header", "header");
-  header.append(
-    element("p", "header__eyebrow", "Hoje é dia de..."),
-    element("h1", "header__date", formatFullDate(target)),
-  );
-  return header;
-}
+const DETAILS_PAGE = "src/details/index.html";
 
 function renderEntry(entry: CommemorativeDate): HTMLElement {
   const item = element("li", `entry entry--${entry.type}`);
@@ -28,6 +21,17 @@ function renderEntry(entry: CommemorativeDate): HTMLElement {
   return item;
 }
 
+function renderFooter(): HTMLElement {
+  const footer = element("footer", "footer");
+  const link = element("button", "footer__link", "Ver a página completa →");
+  link.addEventListener("click", () => {
+    chrome.tabs.create({ url: chrome.runtime.getURL(DETAILS_PAGE) });
+    window.close();
+  });
+  footer.append(link);
+  return footer;
+}
+
 function render(): void {
   const app = document.getElementById("app");
   if (!app) return;
@@ -35,19 +39,25 @@ function render(): void {
   const target = resolveTargetDate(window.location.search);
   const entries = entriesFor(target);
 
-  app.replaceChildren(renderHeader(target));
+  const header = element("header", "header");
+  header.append(
+    element("p", "header__eyebrow", "Hoje é dia de..."),
+    element("h1", "header__date", formatShortDate(target)),
+  );
+  app.replaceChildren(header);
 
   if (entries.length > 0) {
     const list = element("ul", "entries");
     list.append(...entries.map(renderEntry));
-    app.append(list);
+    app.append(list, renderFooter());
   } else {
     app.append(
       element(
         "p",
         "empty-state",
-        "Nenhuma data comemorativa cadastrada por aqui ainda. Mais um motivo pra inventar a sua própria comemoração hoje.",
+        "Nenhuma data cadastrada hoje. Bom motivo pra inventar a sua.",
       ),
+      renderFooter(),
     );
   }
 }
