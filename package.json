@@ -8,6 +8,7 @@
     "dev": "vite",
     "build": "tsc --noEmit && vite build && node scripts/patch-firefox-fields.mjs",
     "lint:firefox": "web-ext lint --source-dir dist",
+    "sign": "npm run build && node scripts/sign.mjs",
     "dates:fetch": "node scripts/fetch-dates.mjs",
     "dates:verify": "node scripts/verify-dates.mjs",
     "icons": "node scripts/generate-icons.mjs"

@@ -33,9 +33,37 @@ Baixe o `.zip` mais recente em **[Releases](https://github.com/Israel-Mendes-git
 ## Build a partir do código
 
 ```bash
-npm install
+npm ci
 npm run build   # gera dist/, que é o conteúdo do .zip do release
 ```
+
+### Build instructions (for AMO reviewers)
+
+This extension is bundled with [Vite](https://vite.dev/), so the shipped files are
+generated. To reproduce them from source:
+
+- **Operating system:** any; developed on Windows 11, verified on Ubuntu via GitHub Actions.
+- **Node.js:** 24 (see `.nvmrc`) — download at <https://nodejs.org/>. npm ships with it.
+- **No other tooling is required.** All dependencies are declared in `package.json`
+  and pinned in `package-lock.json`.
+
+```bash
+npm ci          # installs the exact pinned dependency tree
+npm run build   # type-checks, bundles with Vite, then patches Firefox-only manifest keys
+```
+
+The build writes the extension to `dist/`, which is exactly what is submitted.
+`npm run build` runs three steps, defined in `package.json`:
+
+1. `tsc --noEmit` — type-checking only, emits nothing.
+2. `vite build` — bundles `src/` into `dist/` using `vite.config.ts` and `manifest.config.ts`.
+3. `node scripts/patch-firefox-fields.mjs` — adds `background.scripts` and
+   `browser_specific_settings.gecko_android` to the generated manifest, since the
+   manifest helper used by the build does not emit those Firefox-specific keys.
+
+No source file is minified beyond Vite's default production output, and the
+extension makes no network requests at runtime — the dataset in `src/data/dates.json`
+is bundled and read locally.
 
 ## Os dados
 
