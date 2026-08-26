@@ -1,0 +1,119 @@
+:root {
+  color-scheme: light dark;
+  --bg: #f6f5f2;
+  --fg: #1c1b1a;
+  --muted: #6b6862;
+  --card-bg: #ffffff;
+  --card-border: #e6e3dd;
+  --accent-nacional: #1f7a5c;
+  --accent-mundial: #2563eb;
+  --accent-curiosidade: #b4530e;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #16161a;
+    --fg: #f2f1ee;
+    --muted: #a3a09a;
+    --card-bg: #201f24;
+    --card-border: #322f37;
+    --accent-nacional: #4ad9a6;
+    --accent-mundial: #7aa8ff;
+    --accent-curiosidade: #ffb066;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+}
+
+#app {
+  width: min(720px, 92vw);
+  padding: 3rem 0;
+}
+
+.header {
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.header__eyebrow {
+  margin: 0 0 0.25rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+.header__date {
+  margin: 0;
+  font-size: clamp(1.5rem, 4vw, 2.25rem);
+  font-weight: 600;
+}
+
+.entries {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 1rem;
+}
+
+.entry {
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 12px;
+  padding: 1rem 1.25rem;
+  border-left-width: 4px;
+}
+
+.entry--nacional {
+  border-left-color: var(--accent-nacional);
+}
+
+.entry--mundial {
+  border-left-color: var(--accent-mundial);
+}
+
+.entry--curiosidade {
+  border-left-color: var(--accent-curiosidade);
+}
+
+.entry__badge {
+  display: inline-block;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--muted);
+  margin-bottom: 0.35rem;
+}
+
+.entry__title {
+  margin: 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.entry__description {
+  margin: 0.4rem 0 0;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+.empty-state {
+  text-align: center;
+  color: var(--muted);
+  font-size: 1rem;
+  line-height: 1.5;
+}
