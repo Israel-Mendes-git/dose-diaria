@@ -1,4 +1,4 @@
-# Hoje é dia de...
+# Essa é sua dose diária 
 
 Extensão de navegador que avisa, ao abrir o navegador, quais datas comemorativas — nacionais, mundiais e curiosidades — correspondem ao dia atual.
 
