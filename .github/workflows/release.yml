@@ -34,7 +34,8 @@ jobs:
         id: pack
         run: |
           version=$(node -p "require('./package.json').version")
-          name="hoje-e-dia-de-v${version}.zip"
+          project=$(node -p "require('./package.json').name")
+          name="${project}-v${version}.zip"
           # manifest.json precisa ficar na raiz do zip para os navegadores aceitarem
           (cd dist && zip -r -q "../${name}" .)
           echo "file=${name}" >> "$GITHUB_OUTPUT"

@@ -21,7 +21,7 @@ const sources = JSON.parse(
 );
 
 const USER_AGENT =
-  "hoje-e-dia-de/1.0 (https://github.com/Israel-Mendes-git/hoje-e-dia-de) verifier";
+  "dose-diaria/1.0 (https://github.com/Israel-Mendes-git/dose-diaria) verifier";
 
 const SAMPLE = Number(process.argv[2] ?? 24);
 

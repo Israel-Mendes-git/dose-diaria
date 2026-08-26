@@ -19,7 +19,7 @@ Um único build em `dist/` atende os três navegadores. O manifest declara `back
 
 ## Instalação
 
-Baixe o `.zip` mais recente em **[Releases](https://github.com/Israel-Mendes-git/hoje-e-dia-de/releases/latest)** e descompacte numa pasta que possa ficar onde está — o navegador carrega a extensão desse local, então apagar a pasta desinstala. Não é preciso ter Node nem compilar nada.
+Baixe o `.zip` mais recente em **[Releases](https://github.com/Israel-Mendes-git/dose-diaria/releases/latest)** e descompacte numa pasta que possa ficar onde está — o navegador carrega a extensão desse local, então apagar a pasta desinstala. Não é preciso ter Node nem compilar nada.
 
 **Chrome** — `chrome://extensions` → ative o "Modo do desenvolvedor" → "Carregar sem compactação" → selecione a pasta descompactada
 

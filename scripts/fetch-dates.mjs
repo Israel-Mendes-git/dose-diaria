@@ -15,7 +15,7 @@ const outPath = path.join(__dirname, "..", "src", "data", "dates.json");
 const sourcesPath = path.join(__dirname, "..", "src", "data", "sources.json");
 
 const USER_AGENT =
-  "hoje-e-dia-de/1.0 (https://github.com/Israel-Mendes-git/hoje-e-dia-de) generator";
+  "dose-diaria/1.0 (https://github.com/Israel-Mendes-git/dose-diaria) generator";
 
 const MESES = [
   "janeiro", "fevereiro", "março", "abril", "maio", "junho",

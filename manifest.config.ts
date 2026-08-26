@@ -24,6 +24,8 @@ export default defineManifest({
   },
   browser_specific_settings: {
     gecko: {
+      // Identidade da extensão no Firefox: mantida desde a v1.0.0. Alterá-la
+      // faria o navegador tratar as versões seguintes como outra extensão.
       id: "hoje-e-dia-de@israelmendes.dev",
       strict_min_version: "140.0",
       data_collection_permissions: {

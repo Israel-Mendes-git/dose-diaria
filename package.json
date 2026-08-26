@@ -1,5 +1,5 @@
 {
-  "name": "hoje-e-dia-de",
+  "name": "dose-diaria",
   "version": "1.0.0",
   "description": "Extensão de navegador que avisa, ao abrir o navegador, quais datas comemorativas e curiosidades correspondem ao dia de hoje.",
   "private": true,
