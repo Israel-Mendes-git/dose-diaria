@@ -22,7 +22,7 @@ function buildMessage(): string {
 function notifyToday(): void {
   chrome.notifications.create(NOTIFICATION_ID, {
     type: "basic",
-    iconUrl: chrome.runtime.getURL("public/icons/icon128.png"),
+    iconUrl: chrome.runtime.getURL("icons/icon128.png"),
     title: "Hoje é dia de...",
     message: buildMessage(),
   });

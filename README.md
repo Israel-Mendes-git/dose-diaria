@@ -17,21 +17,25 @@ Ao iniciar o navegador, uma notificação do sistema mostra as datas do dia. Cli
 
 Um único build em `dist/` atende os três navegadores. O manifest declara `background.service_worker` (lido por Chrome e Opera) e `background.scripts` (lido pelo Firefox) apontando para o mesmo arquivo; cada navegador ignora a chave que não reconhece.
 
-## Build
+## Instalação
+
+Baixe o `.zip` mais recente em **[Releases](https://github.com/Israel-Mendes-git/hoje-e-dia-de/releases/latest)** e descompacte numa pasta que possa ficar onde está — o navegador carrega a extensão desse local, então apagar a pasta desinstala. Não é preciso ter Node nem compilar nada.
+
+**Chrome** — `chrome://extensions` → ative o "Modo do desenvolvedor" → "Carregar sem compactação" → selecione a pasta descompactada
+
+**Opera** — `opera://extensions` → ative o "Modo do desenvolvedor" → "Carregar sem compactação" → selecione a pasta descompactada
+
+**Firefox** — `about:debugging#/runtime/this-firefox` → "Carregar extensão temporária" → selecione o `manifest.json` de dentro da pasta
+(Requer Firefox 140+.)
+
+> **Por que o "modo do desenvolvedor"?** Chrome e Opera só dispensam esse passo para extensões vindas da loja oficial, e o Firefox só mantém a instalação entre reinícios se o pacote for assinado pela Mozilla. Enquanto a extensão não estiver publicada, esse é o caminho — ver [backlog](#backlog).
+
+## Build a partir do código
 
 ```bash
 npm install
-npm run build
+npm run build   # gera dist/, que é o conteúdo do .zip do release
 ```
-
-## Instalação
-
-**Chrome** — `chrome://extensions` → ative o "Modo do desenvolvedor" → "Carregar sem compactação" → selecione `dist/`
-
-**Opera** — `opera://extensions` → ative o "Modo do desenvolvedor" → "Carregar sem compactação" → selecione `dist/`
-
-**Firefox** — `about:debugging#/runtime/this-firefox` → "Carregar extensão temporária" → selecione `dist/manifest.json`
-(Requer Firefox 140+. A instalação temporária é removida ao fechar o navegador; instalação permanente exige assinatura pela Mozilla.)
 
 ## Os dados
 
@@ -91,7 +95,8 @@ O **dataset** (`src/data/dates.json`) deriva da Wikipédia em português e é di
 
 ## Backlog
 
-- Publicar na Chrome Web Store, Opera Add-ons e AMO (Firefox)
+- Assinar o pacote na Mozilla (gratuito), para o Firefox manter a extensão entre reinícios
+- Publicar na Chrome Web Store e no Opera Add-ons, dispensando o modo do desenvolvedor
 - Dividir o dataset por mês e carregar sob demanda (hoje o service worker importa os 366 dias para exibir um)
 - Favoritar/fixar datas e ver histórico de dias visitados
 - Busca por outras datas além da atual

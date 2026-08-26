@@ -1,0 +1,58 @@
+name: Release
+
+# Publica um build pronto para instalar sempre que uma tag "v*" é enviada,
+# para que ninguém precise de Node para usar a extensão.
+on:
+  push:
+    tags:
+      - "v*"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Build
+        run: npm run build
+
+      - name: Validar compatibilidade com o Firefox
+        run: npm run lint:firefox
+
+      - name: Empacotar
+        id: pack
+        run: |
+          version=$(node -p "require('./package.json').version")
+          name="hoje-e-dia-de-v${version}.zip"
+          # manifest.json precisa ficar na raiz do zip para os navegadores aceitarem
+          (cd dist && zip -r -q "../${name}" .)
+          echo "file=${name}" >> "$GITHUB_OUTPUT"
+
+      # Numa execução manual não há tag: só guarda o build para download,
+      # sem criar release.
+      - name: Guardar build (execução manual)
+        if: github.ref_type != 'tag'
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ steps.pack.outputs.file }}
+          path: ${{ steps.pack.outputs.file }}
+
+      - name: Publicar release
+        if: github.ref_type == 'tag'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "${GITHUB_REF_NAME}" "${{ steps.pack.outputs.file }}" \
+            --title "${GITHUB_REF_NAME}" \
+            --generate-notes
