@@ -1,3 +1,13 @@
+/**
+ * Gera os PNGs do ícone sem depender de nenhuma biblioteca: o arquivo é
+ * montado chunk a chunk, com o zlib do próprio Node comprimindo os pixels.
+ *
+ * O desenho é descrito em coordenadas de 0 a 1 e amostrado quatro vezes por
+ * eixo em cada pixel. Essa média é o que dá o antialiasing — sem ela, as
+ * bordas arredondadas e as argolas saem serradas em 16px, que é justamente
+ * onde o ícone mais precisa ser reconhecível.
+ */
+
 import { deflateSync, crc32 } from "node:zlib";
 import { writeFileSync, mkdirSync } from "node:fs";
 import { fileURLToPath } from "node:url";
@@ -7,110 +17,92 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const outDir = path.join(__dirname, "..", "public", "icons");
 mkdirSync(outDir, { recursive: true });
 
-const BLUE = [0x25, 0x63, 0xeb, 0xff];
-const NAVY = [0x1e, 0x3a, 0x8a, 0xff];
-const PAGE = [0xf5, 0xf5, 0xf5, 0xff];
-const ORANGE = [0xb4, 0x53, 0x0e, 0xff];
+const BLUE = [0x25, 0x63, 0xeb];
+const NAVY = [0x1e, 0x3a, 0x8a];
+const PAGE = [0xf8, 0xfa, 0xfc];
+const ORANGE = [0xea, 0x74, 0x0a];
 const TRANSPARENT = [0, 0, 0, 0];
 
-function insideRoundedRect(x, y, size, radius) {
-  const min = 0;
-  const max = size - 1;
-  const inCornerZone =
-    (x < radius && y < radius) ||
-    (x > max - radius && y < radius) ||
-    (x < radius && y > max - radius) ||
-    (x > max - radius && y > max - radius);
+const SUPERSAMPLE = 4;
 
-  if (!inCornerZone) return true;
+/** Um ponto está dentro do retângulo de cantos arredondados? */
+function insideRoundedRect(x, y, left, top, right, bottom, radius) {
+  if (x < left || x > right || y < top || y > bottom) return false;
+  const cx = Math.min(Math.max(x, left + radius), right - radius);
+  const cy = Math.min(Math.max(y, top + radius), bottom - radius);
+  return (x - cx) ** 2 + (y - cy) ** 2 <= radius ** 2 + 1e-9;
+}
 
-  const cx = x < radius ? radius : max - radius;
-  const cy = y < radius ? radius : max - radius;
-  const dx = x - cx;
-  const dy = y - cy;
-  return dx * dx + dy * dy <= radius * radius;
+/** Cor do desenho no ponto (u, v), ambos entre 0 e 1. */
+function sample(u, v) {
+  // As duas argolas no topo: é o que faz o ícone ser lido como calendário.
+  for (const cx of [0.32, 0.68]) {
+    if (insideRoundedRect(u, v, cx - 0.045, 0.04, cx + 0.045, 0.2, 0.045)) {
+      return [...NAVY, 255];
+    }
+  }
+  if (!insideRoundedRect(u, v, 0.06, 0.12, 0.94, 0.94, 0.14)) return TRANSPARENT;
+  if (v < 0.34) return [...NAVY, 255];
+  if (!insideRoundedRect(u, v, 0.14, 0.42, 0.86, 0.86, 0.04)) return [...BLUE, 255];
+  if (insideRoundedRect(u, v, 0.4, 0.56, 0.6, 0.76, 0.03)) return [...ORANGE, 255];
+  return [...PAGE, 255];
+}
+
+function chunk(type, data) {
+  const length = Buffer.alloc(4);
+  length.writeUInt32BE(data.length, 0);
+  const typeBuffer = Buffer.from(type, "ascii");
+  const crcBuffer = Buffer.alloc(4);
+  crcBuffer.writeUInt32BE(crc32(Buffer.concat([typeBuffer, data])) >>> 0, 0);
+  return Buffer.concat([length, typeBuffer, data, crcBuffer]);
 }
 
 function buildIcon(size) {
-  const radius = Math.max(2, Math.round(size * 0.18));
-  const headerHeight = Math.round(size * 0.32);
-  const margin = Math.max(1, Math.round(size * 0.12));
-  const markerSize = Math.max(1, Math.round(size * 0.16));
-
-  const pixels = [];
-  for (let y = 0; y < size; y++) {
-    const row = [];
-    for (let x = 0; x < size; x++) {
-      if (!insideRoundedRect(x, y, size, radius)) {
-        row.push(TRANSPARENT);
-        continue;
-      }
-      if (y < headerHeight) {
-        row.push(NAVY);
-        continue;
-      }
-      const inBody =
-        x >= margin && x < size - margin && y < size - margin;
-      if (!inBody) {
-        row.push(BLUE);
-        continue;
-      }
-      const inMarker =
-        x >= size - margin - markerSize &&
-        y >= size - margin - markerSize;
-      row.push(inMarker ? ORANGE : PAGE);
-    }
-    pixels.push(row);
-  }
-
-  const bytesPerPixel = 4;
-  const stride = size * bytesPerPixel + 1;
+  const stride = size * 4 + 1;
   const raw = Buffer.alloc(stride * size);
+
   for (let y = 0; y < size; y++) {
-    const rowOffset = y * stride;
-    raw[rowOffset] = 0; // filter type: none
+    raw[y * stride] = 0; // filter type: none
     for (let x = 0; x < size; x++) {
-      const [r, g, b, a] = pixels[y][x];
-      const pixelOffset = rowOffset + 1 + x * bytesPerPixel;
-      raw[pixelOffset] = r;
-      raw[pixelOffset + 1] = g;
-      raw[pixelOffset + 2] = b;
-      raw[pixelOffset + 3] = a;
+      // Média das amostras, com a cor ponderada pelo alfa: sem isso, as
+      // amostras transparentes puxariam a borda para preto.
+      let r = 0;
+      let g = 0;
+      let b = 0;
+      let a = 0;
+      for (let sy = 0; sy < SUPERSAMPLE; sy++) {
+        for (let sx = 0; sx < SUPERSAMPLE; sx++) {
+          const u = (x + (sx + 0.5) / SUPERSAMPLE) / size;
+          const v = (y + (sy + 0.5) / SUPERSAMPLE) / size;
+          const [sr, sg, sb, sa] = sample(u, v);
+          r += sr * sa;
+          g += sg * sa;
+          b += sb * sa;
+          a += sa;
+        }
+      }
+      const offset = y * stride + 1 + x * 4;
+      if (a > 0) {
+        raw[offset] = r / a;
+        raw[offset + 1] = g / a;
+        raw[offset + 2] = b / a;
+      }
+      raw[offset + 3] = a / SUPERSAMPLE ** 2;
     }
   }
 
-  const idatData = deflateSync(raw);
+  const ihdr = Buffer.alloc(13);
+  ihdr.writeUInt32BE(size, 0);
+  ihdr.writeUInt32BE(size, 4);
+  ihdr[8] = 8; // bit depth
+  ihdr[9] = 6; // color type: RGBA
 
-  function chunk(type, data) {
-    const length = Buffer.alloc(4);
-    length.writeUInt32BE(data.length, 0);
-    const typeBuffer = Buffer.from(type, "ascii");
-    const crcInput = Buffer.concat([typeBuffer, data]);
-    const crcValue = crc32(crcInput);
-    const crcBuffer = Buffer.alloc(4);
-    crcBuffer.writeUInt32BE(crcValue >>> 0, 0);
-    return Buffer.concat([length, typeBuffer, data, crcBuffer]);
-  }
-
-  const signature = Buffer.from([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a]);
-
-  const ihdrData = Buffer.alloc(13);
-  ihdrData.writeUInt32BE(size, 0);
-  ihdrData.writeUInt32BE(size, 4);
-  ihdrData[8] = 8; // bit depth
-  ihdrData[9] = 6; // color type: RGBA
-  ihdrData[10] = 0;
-  ihdrData[11] = 0;
-  ihdrData[12] = 0;
-
-  const png = Buffer.concat([
-    signature,
-    chunk("IHDR", ihdrData),
-    chunk("IDAT", idatData),
+  return Buffer.concat([
+    Buffer.from([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a]),
+    chunk("IHDR", ihdr),
+    chunk("IDAT", deflateSync(raw)),
     chunk("IEND", Buffer.alloc(0)),
   ]);
-
-  return png;
 }
 
 for (const size of [16, 48, 128]) {
