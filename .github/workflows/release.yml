@@ -2,6 +2,11 @@ name: Release
 
 # Publica um build pronto para instalar sempre que uma tag "v*" é enviada,
 # para que ninguém precise de Node para usar a extensão.
+#
+# Se o push da tag não gerar execução (já aconteceu uma vez, aparentemente
+# após a renomeação do repositório), dispare apontando para a tag — o release
+# é criado do mesmo jeito, porque a condição abaixo olha o tipo do ref:
+#   gh workflow run release.yml --ref v1.2.3
 on:
   push:
     tags:
