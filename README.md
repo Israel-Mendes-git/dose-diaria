@@ -87,7 +87,7 @@ manifest.config.ts
 
 O **código** está sob licença MIT.
 
-O **dataset** (`src/data/dates.json`) deriva da Wikipédia em português e é distribuído sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.pt-br), a mesma licença do conteúdo original. Atribuição: colaboradores da Wikipédia em português, artigos "dia do ano".
+O **dataset** (`src/data/dates.json`) deriva da Wikipédia em português e é distribuído sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.pt-br), a mesma licença do conteúdo original — ver `src/data/LICENSE`. Atribuição: colaboradores da Wikipédia em português, artigos "dia do ano".
 
 ## Backlog
 

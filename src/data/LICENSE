@@ -1,0 +1,13 @@
+Os arquivos deste diretório não estão cobertos pela licença MIT do restante
+do projeto.
+
+dates.json deriva dos artigos "dia do ano" da Wikipédia em português e é
+distribuído sob Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional
+(CC BY-SA 4.0):
+
+    https://creativecommons.org/licenses/by-sa/4.0/deed.pt-br
+
+Atribuição: colaboradores da Wikipédia em português.
+
+O artigo de origem de cada dia está listado em sources.json, e o dataset pode
+ser regenerado a partir da fonte com `npm run dates:fetch`.

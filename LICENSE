@@ -19,14 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-O dataset em src/data/dates.json não está coberto por esta licença.
-
-Ele deriva dos artigos "dia do ano" da Wikipédia em português e é distribuído
-sob Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0):
-https://creativecommons.org/licenses/by-sa/4.0/deed.pt-br
-
-Atribuição: colaboradores da Wikipédia em português.
-Os artigos de origem de cada dia estão listados em src/data/sources.json.
