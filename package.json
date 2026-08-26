@@ -8,11 +8,13 @@
     "dev": "vite",
     "build": "tsc --noEmit && vite build && node scripts/patch-firefox-fields.mjs",
     "lint:firefox": "web-ext lint --source-dir dist",
+    "dates:fetch": "node scripts/fetch-dates.mjs",
+    "dates:verify": "node scripts/verify-dates.mjs",
     "icons": "node scripts/generate-icons.mjs"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["browser-extension", "manifest-v3", "datas-comemorativas"],
+  "author": "Israel Mendes",
+  "license": "MIT",
   "devDependencies": {
     "@crxjs/vite-plugin": "^2.7.1",
     "@types/chrome": "^0.2.7",

@@ -1,345 +1,7429 @@
 {
   "01-01": [
-    { "title": "Confraternização Universal", "type": "nacional" },
-    { "title": "Dia Mundial da Paz", "type": "mundial" }
+    {
+      "title": "Dia da Fraternidade Universal",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Paz",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia de Ano-novo (nos países que adotam o calendário gregoriano)",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Domínio Público",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da posse dos cargos eletivos do Poder Executivo do Brasil no nível municipal (prefeitos) para um mandato…",
+      "type": "nacional",
+      "description": "Dia da posse dos cargos eletivos do Poder Executivo do Brasil no nível municipal (prefeitos) para um mandato que possui uma duração de quatro anos. Neste dia, também tomam posse juntamente com os mandatários do poder executivo, os seus respectivos secretários."
+    }
+  ],
+  "01-02": [
+    {
+      "title": "Feriado bancário na Escócia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial do Introvertido",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia de Luta pelos Direitos dos Pequenos Clubes de Futebol Brasileiro",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Sanitarista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Confeiteiro e Doceiro",
+      "type": "nacional"
+    }
+  ],
+  "01-03": [
+    {
+      "title": "Periélio da Terra",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Juizado de Menores",
+      "type": "nacional"
+    },
+    {
+      "title": "Papa João XXIII excomunga Fidel Castro",
+      "type": "curiosidade",
+      "description": "Papa João XXIII excomunga Fidel Castro, em 1962."
+    }
   ],
   "01-04": [
-    { "title": "Dia Mundial do Braille", "type": "mundial" }
+    {
+      "title": "Dia Mundial do Braille",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional da Abreugrafia",
+      "type": "nacional"
+    },
+    {
+      "title": "Aniversário do estado de Rondônia (elevação a estado)",
+      "type": "nacional"
+    }
+  ],
+  "01-05": [
+    {
+      "title": "Dia Nacional da Tipografia",
+      "type": "nacional"
+    },
+    {
+      "title": "Duque Ludovico Sforza reconquista Milão",
+      "type": "curiosidade",
+      "description": "Duque Ludovico Sforza reconquista Milão, em 1500."
+    },
+    {
+      "title": "Daily Mail se torna o primeiro jornal transoceânico",
+      "type": "curiosidade",
+      "description": "Daily Mail se torna o primeiro jornal transoceânico, em 1944."
+    }
   ],
   "01-06": [
-    { "title": "Dia de Reis", "type": "curiosidade", "description": "Marca o fim tradicional do ciclo natalino." }
+    {
+      "title": "Dia de Reis",
+      "type": "mundial"
+    },
+    {
+      "title": "Parada dos bombeiros de Tóquio - Japão",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial do Astrólogo",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Gratidão",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado de Santos Reis em Natal, Rio Grande do Norte e outras cidades",
+      "type": "nacional"
+    }
+  ],
+  "01-07": [
+    {
+      "title": "Dia do Leitor",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Liberdade de Cultos",
+      "type": "nacional"
+    },
+    {
+      "title": "Rebeldes de Bashkir cercam Yelabuga",
+      "type": "curiosidade",
+      "description": "Rebeldes de Bashkir cercam Yelabuga, em 1708."
+    }
+  ],
+  "01-08": [
+    {
+      "title": "Dia Nacional da Cultura na Angola",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional da Fotografia e do Fotógrafo",
+      "type": "nacional"
+    },
+    {
+      "title": "Colônia do Cabo torna-se uma colônia britânica",
+      "type": "curiosidade",
+      "description": "Colônia do Cabo torna-se uma colônia britânica, em 1806."
+    }
+  ],
+  "01-09": [
+    {
+      "title": "Dia do Astronauta",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Fico",
+      "type": "nacional"
+    },
+    {
+      "title": "O espanhol Juan de la Cierva faz o primeiro voo de autogiro",
+      "type": "curiosidade",
+      "description": "O espanhol Juan de la Cierva faz o primeiro voo de autogiro, em 1923."
+    }
+  ],
+  "01-10": [
+    {
+      "title": "Dia consagrado ao Bardo Geraint, personagem galês do século IX",
+      "type": "mundial"
+    },
+    {
+      "title": "Declaração da República da Chechênia",
+      "type": "curiosidade",
+      "description": "Declaração da República da Chechênia, em 1993."
+    },
+    {
+      "title": "Fundação do Partido Socialista Português",
+      "type": "curiosidade",
+      "description": "Fundação do Partido Socialista Português, em 1875."
+    }
+  ],
+  "01-11": [
+    {
+      "title": "Dia da República - Albânia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Independência - Marrocos",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional do Obrigado",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Controle da Poluição por Agrotóxicos",
+      "type": "nacional"
+    }
+  ],
+  "01-12": [
+    {
+      "title": "Dia Nacional do Empresário Contábil",
+      "type": "nacional"
+    },
+    {
+      "title": "O National Trust é fundado no Reino Unido",
+      "type": "curiosidade",
+      "description": "O National Trust é fundado no Reino Unido, em 1895."
+    },
+    {
+      "title": "A Royal Aeronautical Society é formada em Londres",
+      "type": "curiosidade",
+      "description": "A Royal Aeronautical Society é formada em Londres, em 1866."
+    }
+  ],
+  "01-13": [
+    {
+      "title": "Dia Internacional do Leonismo",
+      "type": "mundial"
+    },
+    {
+      "title": "Véspera de Ano-Novo Ortodoxo",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Democracia em Cabo Verde",
+      "type": "mundial"
+    }
+  ],
+  "01-14": [
+    {
+      "title": "Ano Novo – Celebrado no Cristianismo Oriental",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional da Pipa",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Enfermo",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Treinador de Futebol",
+      "type": "nacional"
+    }
+  ],
+  "01-15": [
+    {
+      "title": "Dia de Hangul - Coreia do Norte",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial do Compositor",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Adulto",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Jogo Limpo e do Combate ao Doping nos Esportes",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado municipal em Guarujá, São Paulo; Campos dos Goytacazes, Rio de Janeiro; Jaboatão dos Guararapes,…",
+      "type": "nacional",
+      "description": "Feriado municipal em Guarujá, São Paulo; Campos dos Goytacazes, Rio de Janeiro; Jaboatão dos Guararapes, Pernambuco e outras cidades - Solenidade de Santo Amaro"
+    }
+  ],
+  "01-16": [
+    {
+      "title": "Dia do Cortador de Cana-de-Açúcar",
+      "type": "nacional"
+    },
+    {
+      "title": "Filipe II torna-se rei da Espanha",
+      "type": "curiosidade",
+      "description": "Filipe II torna-se rei da Espanha, em 1556."
+    },
+    {
+      "title": "Expedição de Ernest Shackleton encontra o Polo Sul magnético",
+      "type": "curiosidade",
+      "description": "Expedição de Ernest Shackleton encontra o Polo Sul magnético, em 1909."
+    }
+  ],
+  "01-17": [
+    {
+      "title": "Dia Mundial do Pizzaiolo",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia dos Tribunais de Contas",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Ceará - Data alusiva à independência da então capitania em relação a Pernambuco",
+      "type": "nacional"
+    }
+  ],
+  "01-18": [
+    {
+      "title": "Fim do mês Sharaf no Calendário bahá'í",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional do Riso",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Krav Magá",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Universidade",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Esteticista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Manicure",
+      "type": "nacional"
+    }
+  ],
+  "01-19": [
+    {
+      "title": "Dia do Passista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Cabeleireiro",
+      "type": "nacional"
+    },
+    {
+      "title": "Formação do Sudão Anglo-Egípcio",
+      "type": "curiosidade",
+      "description": "Formação do Sudão Anglo-Egípcio, em 1899."
+    }
   ],
   "01-20": [
-    { "title": "Dia de São Sebastião", "type": "curiosidade", "description": "Padroeiro da cidade do Rio de Janeiro." }
+    {
+      "title": "Dia de Martin Luther King Jr nos Estados Unidos",
+      "type": "mundial"
+    },
+    {
+      "title": "Início do mandato presidencial nos Estados Unidos",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia dos Heróis Nacionais na Guiné-Bissau e no Cabo Verde",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Farmacêutico",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Queijo",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Parteira Tradicional",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Fusca",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado Estadual no Acre - Dia do Católico",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado municipal no Rio de Janeiro e demais municípios brasileiros - Solenidade de São Sebastião",
+      "type": "nacional"
+    }
+  ],
+  "01-21": [
+    {
+      "title": "Dia de Errol Barrow em Barbados",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Religião",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial do Esquilo",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional de Combate à Intolerância Religiosa",
+      "type": "nacional"
+    }
+  ],
+  "01-22": [
+    {
+      "title": "Israel se retira da Península do Sinai",
+      "type": "curiosidade",
+      "description": "Israel se retira da Península do Sinai, em 1957."
+    },
+    {
+      "title": "Fundação da Universidade Federal do Acre",
+      "type": "curiosidade",
+      "description": "Fundação da Universidade Federal do Acre, em 1971."
+    },
+    {
+      "title": "Fundação da Columbia Phonograph em Washington, D.C",
+      "type": "curiosidade",
+      "description": "Fundação da Columbia Phonograph em Washington, D.C, em 1889."
+    }
+  ],
+  "01-23": [
+    {
+      "title": "Dia Mundial da Liberdade",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional da Medicina Integrativa",
+      "type": "mundial"
+    },
+    {
+      "title": "Segunda Partição da Polônia",
+      "type": "curiosidade",
+      "description": "Segunda Partição da Polônia, em 1793."
+    }
   ],
   "01-24": [
-    { "title": "Dia Internacional da Educação", "type": "mundial" }
+    {
+      "title": "Dia Internacional da Educação",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Festival das Velas na Hungria, ancestral cerimônia de purificação através do poder das Deusas do Fogo",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Aposentado",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Previdência Social",
+      "type": "nacional"
+    }
+  ],
+  "01-25": [
+    {
+      "title": "Aniversário do Município de Luanda, Angola",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Carteiro",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Bossa Nova",
+      "type": "nacional"
+    }
+  ],
+  "01-26": [
+    {
+      "title": "Dia da Austrália – Feriado nacional na Austrália",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da República na Índia – Feriado nacional na Índia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia de Duarte – Data comemorativa na República Dominicana em homenagem a Juan Pablo Duarte",
+      "type": "mundial"
+    }
   ],
   "01-27": [
-    { "title": "Dia Internacional em Memória das Vítimas do Holocausto", "type": "mundial" }
+    {
+      "title": "Dia Internacional da Lembrança do Holocausto",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial do Bolo de chocolate",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Orador",
+      "type": "nacional"
+    }
+  ],
+  "01-28": [
+    {
+      "title": "Dia Mundial dos Corais da Amazônia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional de Proteção de Dados Pessoais",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional do Lego",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Comércio Exterior",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Portuário",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional de Combate ao Trabalho Escravo",
+      "type": "nacional"
+    }
+  ],
+  "01-29": [
+    {
+      "title": "Dia Internacional do Hanseniano",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional da Visibilidade Trans",
+      "type": "nacional"
+    },
+    {
+      "title": "Stamford Raffles desembarca na ilha de Cingapura",
+      "type": "curiosidade",
+      "description": "Stamford Raffles desembarca na ilha de Cingapura, em 1819."
+    }
+  ],
+  "01-30": [
+    {
+      "title": "Dia Mundial da Não-Violência e Cultura de Paz",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Saudade",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Quadrinho Nacional",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Padrinho",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Pajador Gaúcho no Rio Grande do Sul",
+      "type": "nacional"
+    }
+  ],
+  "01-31": [
+    {
+      "title": "Dia Internacional do Mágico",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional da Zebra",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Engenheiro Ambiental",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional das Reservas Particulares do Patrimônio Natural",
+      "type": "nacional"
+    }
+  ],
+  "02-01": [
+    {
+      "title": "Último dia em que o sol não nasce na cidade de Hammerfest, Noruega",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Tomate",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Defesa Civil",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Publicitário",
+      "type": "nacional"
+    }
   ],
   "02-02": [
-    { "title": "Dia da Marmota", "type": "curiosidade", "description": "Tradição popular norte-americana (Groundhog Day)." }
+    {
+      "title": "Dia da marmota - Estados Unidos e Canadá",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial das Zonas Húmidas",
+      "type": "mundial"
+    },
+    {
+      "title": "Festa de Iemanjá em Salvador, Bahia",
+      "type": "nacional"
+    },
+    {
+      "title": "Festa de Nossa Senhora dos Navegantes de Porto Alegre",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado Municipal em Camaquã, Canoas, Jaguarão, Pelotas, Rio Grande, Santa Vitória do Palmar, Torres, Itapema…",
+      "type": "nacional",
+      "description": "Feriado Municipal em Camaquã, Canoas, Jaguarão, Pelotas, Rio Grande, Santa Vitória do Palmar, Torres, Itapema e demais cidades brasileiras - Solenidade de Nossa Senhora dos Navegantes"
+    }
+  ],
+  "02-03": [
+    {
+      "title": "Dia da Navegação no Rio São Francisco",
+      "type": "nacional"
+    },
+    {
+      "title": "Mania das tulipas colapsa na República Holandesa",
+      "type": "curiosidade",
+      "description": "Mania das tulipas colapsa na República Holandesa, em 1637."
+    },
+    {
+      "title": "Uma revolta contra a ditadura militar de Portugal irrompe no Porto",
+      "type": "curiosidade",
+      "description": "Uma revolta contra a ditadura militar de Portugal irrompe no Porto, em 1927."
+    }
   ],
   "02-04": [
-    { "title": "Dia Mundial de Luta Contra o Câncer", "type": "mundial" }
+    {
+      "title": "Dia Mundial Contra o Câncer",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional da Fraternidade Humana",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Amigo do Facebook",
+      "type": "mundial"
+    }
+  ],
+  "02-05": [
+    {
+      "title": "Aniversário da Constituição — México",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Matola - Moçambique",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Dermatologista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Datiloscopista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Mamografia",
+      "type": "nacional"
+    }
+  ],
+  "02-06": [
+    {
+      "title": "Dia Internacional da Tolerância Zero à Mutilação Genital Feminina",
+      "type": "mundial"
+    },
+    {
+      "title": "Fim do mês Sulṭán (Soberania) no Calendário bahá'í",
+      "type": "mundial"
+    },
+    {
+      "title": "Feriado em comemoração do Tratado de Waitangi - Nova Zelândia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Agente de Defesa Ambiental",
+      "type": "nacional"
+    }
+  ],
+  "02-07": [
+    {
+      "title": "Início do mês Mulk (\"Domínio\") no Calendário bahá'í",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional de Luta dos Povos Indígenas",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Gráfico",
+      "type": "nacional"
+    }
+  ],
+  "02-08": [
+    {
+      "title": "Queda do meteorito Allende em Chihuahua, México",
+      "type": "curiosidade",
+      "description": "Queda do meteorito Allende em Chihuahua, México, em 1969."
+    },
+    {
+      "title": "Segunda Guerra Mundial: o Japão invade Singapura",
+      "type": "curiosidade",
+      "description": "Segunda Guerra Mundial: o Japão invade Singapura, em 1942."
+    },
+    {
+      "title": "Navio escola é incorporado na Marinha Portuguesa",
+      "type": "curiosidade",
+      "description": "Navio escola é incorporado na Marinha Portuguesa, em 1962."
+    }
+  ],
+  "02-09": [
+    {
+      "title": "Dia do Frevo em Pernambuco",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Cerco da Lapa",
+      "type": "nacional"
+    },
+    {
+      "title": "O Google lança o Android 1.1",
+      "type": "curiosidade",
+      "description": "O Google lança o Android 1.1, em 2009."
+    }
+  ],
+  "02-10": [
+    {
+      "title": "Dia Mundial das Leguminosas",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Atleta Profissional",
+      "type": "nacional"
+    },
+    {
+      "title": "Aniversário da região administrativa de Santa Maria, Distrito Federal",
+      "type": "nacional"
+    }
   ],
   "02-11": [
-    { "title": "Dia Internacional das Mulheres e Meninas na Ciência", "type": "mundial" }
+    {
+      "title": "Dia Mundial do Enfermo",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional das Mulheres na Ciência",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional da Juventude - Camarões",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Japão",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Pátria - Irã",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Independência - Vaticano",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Antropólogo",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Zelador",
+      "type": "nacional"
+    }
+  ],
+  "02-12": [
+    {
+      "title": "Dia de Darwin",
+      "type": "mundial"
+    },
+    {
+      "title": "Equador anexa as Ilhas Galápagos",
+      "type": "curiosidade",
+      "description": "Equador anexa as Ilhas Galápagos, em 1832."
+    },
+    {
+      "title": "Gustavo III torna-se rei da Suécia",
+      "type": "curiosidade",
+      "description": "Gustavo III torna-se rei da Suécia, em 1771."
+    }
   ],
   "02-13": [
-    { "title": "Dia Mundial do Rádio", "type": "mundial" }
+    {
+      "title": "Dia Mundial do Rádio",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional do Preservativo",
+      "type": "mundial"
+    },
+    {
+      "title": "Fim da noite polar na Ilha do Urso - Noruega",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Serviço de Assistência Religiosa do Exército",
+      "type": "nacional"
+    }
   ],
   "02-14": [
-    { "title": "Dia dos Namorados (internacional)", "type": "curiosidade", "description": "Valentine's Day, celebrado em boa parte do mundo." }
+    {
+      "title": "Dia de São Valentim - Dia dos Namorados",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial do Amor",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional da Doação de Livros",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Brega",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Botonista",
+      "type": "nacional"
+    }
+  ],
+  "02-15": [
+    {
+      "title": "Dia Internacional de Luta contra o Câncer Infantil",
+      "type": "mundial"
+    },
+    {
+      "title": "Fim da noite polar em cidades como Longyearbyen e Spitsbergen - Noruega",
+      "type": "mundial"
+    },
+    {
+      "title": "Fundação do Theatro da Paz em Belém do Pará",
+      "type": "curiosidade",
+      "description": "Fundação do Theatro da Paz em Belém do Pará, em 1878."
+    }
+  ],
+  "02-16": [
+    {
+      "title": "Dia da Independência - Lituânia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Repórter",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Repositor de Mercadorias",
+      "type": "nacional"
+    }
+  ],
+  "02-17": [
+    {
+      "title": "Dia Mundial do Gato",
+      "type": "mundial"
+    },
+    {
+      "title": "Tem início a Guerra sino-vietnamita",
+      "type": "curiosidade",
+      "description": "Tem início a Guerra sino-vietnamita, em 1979."
+    },
+    {
+      "title": "Kosovo declara independência da Sérvia",
+      "type": "curiosidade",
+      "description": "Kosovo declara independência da Sérvia, em 2008."
+    }
+  ],
+  "02-18": [
+    {
+      "title": "Dia Internacional da Síndrome de Asperger",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Combate ao Alcoolismo",
+      "type": "nacional"
+    },
+    {
+      "title": "Segunda Guerra Mundial:",
+      "type": "curiosidade",
+      "description": "Segunda Guerra Mundial:, em 1942."
+    }
+  ],
+  "02-19": [
+    {
+      "title": "Dia Mundial da Baleia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Esportista",
+      "type": "nacional"
+    },
+    {
+      "title": "É patenteado o fonógrafo de Thomas Edison",
+      "type": "curiosidade",
+      "description": "É patenteado o fonógrafo de Thomas Edison, em 1878."
+    }
   ],
   "02-20": [
-    { "title": "Dia Mundial da Justiça Social", "type": "mundial" }
+    {
+      "title": "Dia Mundial da Justiça Social",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia de Homens Trans e Pessoas Transmasculinas",
+      "type": "nacional"
+    },
+    {
+      "title": "No Conclave de 1878 é eleito o Papa Leão XIII",
+      "type": "curiosidade",
+      "description": "No Conclave de 1878 é eleito o Papa Leão XIII, em 1878."
+    }
   ],
   "02-21": [
-    { "title": "Dia Internacional da Língua Materna", "type": "mundial" }
+    {
+      "title": "Dia Internacional da Língua Materna",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Imigrante Italiano",
+      "type": "nacional"
+    },
+    {
+      "title": "É fundada Mariehamn, capital de Åland",
+      "type": "curiosidade",
+      "description": "É fundada Mariehamn, capital de Åland, em 1861."
+    }
+  ],
+  "02-22": [
+    {
+      "title": "Dia da Independência em Santa Lúcia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional do Maçom",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Margarita",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Auxiliar de Serviços Gerais",
+      "type": "nacional"
+    }
+  ],
+  "02-23": [
+    {
+      "title": "Dia Mundial do Rotariano",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Sedução",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Defesa - Rússia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Rotary",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Movimento Municipalista Brasileiro",
+      "type": "nacional"
+    }
+  ],
+  "02-24": [
+    {
+      "title": "Dia da Bandeira do México",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Independência da Estônia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Conquista do Voto Feminino no Brasil",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do RPG",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Estadual da Mulher Maranhense na Política no Maranhão",
+      "type": "nacional"
+    }
+  ],
+  "02-25": [
+    {
+      "title": "Abolido o Pacto de Varsóvia",
+      "type": "curiosidade",
+      "description": "Abolido o Pacto de Varsóvia, em 1991."
+    },
+    {
+      "title": "A Grã-Bretanha ocupa o Reino do Havaí",
+      "type": "curiosidade",
+      "description": "A Grã-Bretanha ocupa o Reino do Havaí, em 1843."
+    },
+    {
+      "title": "Criação do Ministério das Comunicações do Brasil",
+      "type": "curiosidade",
+      "description": "Criação do Ministério das Comunicações do Brasil, em 1967."
+    }
+  ],
+  "02-26": [
+    {
+      "title": "Proclamada a Segunda República Francesa",
+      "type": "curiosidade",
+      "description": "Proclamada a Segunda República Francesa, em 1848."
+    },
+    {
+      "title": "Egito e Israel estabelecem relações diplomáticas plenas",
+      "type": "curiosidade",
+      "description": "Egito e Israel estabelecem relações diplomáticas plenas, em 1980."
+    },
+    {
+      "title": "O primeiro Palácio de Christiansborg em Copenhague é incendiado",
+      "type": "curiosidade",
+      "description": "O primeiro Palácio de Christiansborg em Copenhague é incendiado, em 1794."
+    }
+  ],
+  "02-27": [
+    {
+      "title": "Dia Mundial da Anosmia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Auditor-Fiscal da Receita Federal do Brasil",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Livro Didático",
+      "type": "nacional"
+    }
+  ],
+  "02-28": [
+    {
+      "title": "Dia Mundial de Combate a LER/DORT",
+      "type": "mundial"
+    },
+    {
+      "title": "Fim da primeira Guerra do Golfo",
+      "type": "curiosidade",
+      "description": "Fim da primeira Guerra do Golfo, em 1991."
+    },
+    {
+      "title": "O sismo de 1969 atinge Portugal, Espanha e Marrocos",
+      "type": "curiosidade",
+      "description": "O sismo de 1969 atinge Portugal, Espanha e Marrocos, em 1969."
+    }
+  ],
+  "02-29": [
+    {
+      "title": "Tokelau é anexado pelo Reino Unido",
+      "type": "curiosidade",
+      "description": "Tokelau é anexado pelo Reino Unido, em 1916."
+    },
+    {
+      "title": "Nobres poloneses formam a Confederação de Bar",
+      "type": "curiosidade",
+      "description": "Nobres poloneses formam a Confederação de Bar, em 1768."
+    },
+    {
+      "title": "Termina em Tóquio o Incidente de 26 de Fevereiro",
+      "type": "curiosidade",
+      "description": "Termina em Tóquio o Incidente de 26 de Fevereiro, em 1936."
+    }
+  ],
+  "03-01": [
+    {
+      "title": "Dia Internacional da Proteção Civil",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Discriminação Zero",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Turismo Ecológico",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Independência da Bósnia e Herzegovina",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Independência da Coreia do Sul",
+      "type": "mundial"
+    }
+  ],
+  "03-02": [
+    {
+      "title": "Dia da independência - Marrocos",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da mulher angolana - Angola",
+      "type": "mundial"
+    },
+    {
+      "title": "Alexandre II torna-se imperador da Rússia",
+      "type": "curiosidade",
+      "description": "Alexandre II torna-se imperador da Rússia, em 1855."
+    }
   ],
   "03-03": [
-    { "title": "Dia Mundial da Vida Selvagem", "type": "mundial" }
+    {
+      "title": "Dia Mundial da Vida Selvagem",
+      "type": "mundial"
+    },
+    {
+      "title": "Hinamatsuri ou \"Dia das Meninas\" – Japão",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Trabalho – Austrália",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Independência – Bulgária",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia dos Mártires – Malawi",
+      "type": "mundial"
+    }
+  ],
+  "03-04": [
+    {
+      "title": "Dia Internacional da Conscientização sobre o HPV",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Engenharia para o Desenvolvimento Sustentável",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Obesidade",
+      "type": "mundial"
+    }
+  ],
+  "03-05": [
+    {
+      "title": "Dia do Filatelista Brasileiro",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Integração Cooperativista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Música Clássica",
+      "type": "nacional"
+    }
+  ],
+  "03-06": [
+    {
+      "title": "Dia Internacional do Optometrista",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Independência - Gana",
+      "type": "mundial"
+    },
+    {
+      "title": "Revolução Pernambucana - Data Magna no Estado de Pernambuco",
+      "type": "nacional"
+    }
+  ],
+  "03-07": [
+    {
+      "title": "Dia do Professor - Albânia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Democracia - Palestina",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Fuzileiro Naval",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Paleontólogo",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Advocacia Pública",
+      "type": "nacional"
+    }
   ],
   "03-08": [
-    { "title": "Dia Internacional da Mulher", "type": "mundial" }
+    {
+      "title": "Dia Internacional da Mulher",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia das Mães - Albânia, Rússia, Sérvia, Montenegro, Bulgária, Romênia",
+      "type": "mundial"
+    },
+    {
+      "title": "É fundada a Bolsa de Valores de Nova Iorque",
+      "type": "curiosidade",
+      "description": "É fundada a Bolsa de Valores de Nova Iorque, em 1817."
+    }
+  ],
+  "03-09": [
+    {
+      "title": "Dia Internacional do DJ",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia de Combate ao Fumo - Reino Unido",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Miku",
+      "type": "mundial"
+    }
+  ],
+  "03-10": [
+    {
+      "title": "Dia do Telefone",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial de Combate ao Sedentarismo",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Conservador",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Sogro",
+      "type": "nacional"
+    }
+  ],
+  "03-11": [
+    {
+      "title": "Dia Internacional das Vítimas do Terrorismo",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Moshoeshoe - Lesoto",
+      "type": "mundial"
+    },
+    {
+      "title": "Restabelecimento da Independência - Lituânia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Juventude - Zâmbia",
+      "type": "mundial"
+    }
+  ],
+  "03-12": [
+    {
+      "title": "Dia Mundial Contra a Censura Cibernética",
+      "type": "mundial"
+    },
+    {
+      "title": "Grækarismessa (Missa de São Gregório) — Tórshavn - Ilhas Feroé",
+      "type": "mundial"
+    },
+    {
+      "title": "Independência do Reino Unido - Maurícia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Bandeira Nacional - Venezuela",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional em Memória das Vítimas da Covid-19",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Bibliotecário",
+      "type": "nacional"
+    }
+  ],
+  "03-13": [
+    {
+      "title": "Começa a Batalha de Cartagena das Índias",
+      "type": "curiosidade",
+      "description": "Começa a Batalha de Cartagena das Índias, em 1741."
+    },
+    {
+      "title": "William Herschel descobre o planeta Urano",
+      "type": "curiosidade",
+      "description": "William Herschel descobre o planeta Urano, em 1781."
+    },
+    {
+      "title": "É eleito o Papa Francisco no conclave papal",
+      "type": "curiosidade",
+      "description": "É eleito o Papa Francisco no conclave papal, em 2013."
+    }
   ],
   "03-14": [
-    { "title": "Dia Mundial da Matemática (Dia do Pi)", "type": "curiosidade", "description": "3,14 — referência ao valor de π." }
+    {
+      "title": "Dia do Pi (π)",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional da Matemática",
+      "type": "mundial"
+    },
+    {
+      "title": "Aniversário de Mustafa Barzani - Curdistão Iraquiano (Iraque)",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Constituição - Andorra",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Idioma Estoniano - Estônia",
+      "type": "mundial"
+    },
+    {
+      "title": "White Day - Coreia do Sul e Japão",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Incontinência Urinária",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional dos Animais",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Livreiro",
+      "type": "nacional"
+    }
   ],
   "03-15": [
-    { "title": "Dia Mundial dos Direitos do Consumidor", "type": "mundial" }
+    {
+      "title": "Dia Mundial dos Direitos do Consumidor",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional Contra a Violência Policial",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Escola",
+      "type": "nacional"
+    }
+  ],
+  "03-16": [
+    {
+      "title": "Dia Nacional de Conscientização sobre as Mudanças Climáticas",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Ouvidor",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Bandeira do Estado do Paraná",
+      "type": "nacional"
+    }
   ],
   "03-17": [
-    { "title": "Dia de São Patrício", "type": "curiosidade" }
+    {
+      "title": "É proclamado o Reino da Itália",
+      "type": "curiosidade",
+      "description": "É proclamado o Reino da Itália, em 1861."
+    },
+    {
+      "title": "Vladimir Putin é reeleito presidente da Rússia",
+      "type": "curiosidade",
+      "description": "Vladimir Putin é reeleito presidente da Rússia, em 2024."
+    },
+    {
+      "title": "Segunda República Polonesa adota a Constituição de Março",
+      "type": "curiosidade",
+      "description": "Segunda República Polonesa adota a Constituição de Março, em 1921."
+    }
+  ],
+  "03-18": [
+    {
+      "title": "Dia Nacional da Imigração Judaica",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do DeMolay",
+      "type": "nacional"
+    },
+    {
+      "title": "Valletta torna-se a capital de Malta",
+      "type": "curiosidade",
+      "description": "Valletta torna-se a capital de Malta, em 1571."
+    }
+  ],
+  "03-19": [
+    {
+      "title": "Dia Mundial do Artesão",
+      "type": "mundial"
+    },
+    {
+      "title": "Angola, Bélgica, Espanha, Itália e Portugal – Dia dos Pais",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Carpinteiro",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Marceneiro",
+      "type": "nacional"
+    },
+    {
+      "title": "Comemorações pela solenidade de São José:",
+      "type": "nacional"
+    }
   ],
   "03-20": [
-    { "title": "Dia Internacional da Felicidade", "type": "mundial" }
+    {
+      "title": "O Equinócio de Primavera (no hemisfério Norte) e o Equinócio de Outono (no hemisfério Sul)",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional da Felicidade",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Língua Francesa",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial Sem Carne",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Saúde Bucal",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Contador de Histórias",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional da Aquicultura",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional de Atenção à Disfagia",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Teatro para a Infância e Juventude",
+      "type": "nacional"
+    }
   ],
   "03-21": [
-    { "title": "Dia Internacional pela Eliminação da Discriminação Racial", "type": "mundial" },
-    { "title": "Dia Mundial da Poesia", "type": "mundial" }
+    {
+      "title": "Dia Internacional da Astrologia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Universal do Teatro",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Infância",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional Contra a Discriminação Racial",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Árvore",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional das Florestas",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Poesia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional da Síndrome de Down",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional de Noruz",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional do Perfume",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional da Cefaleia em Salvas",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Tiramisù",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia das Mães — na Jordânia, Líbano, Síria e Iêmen",
+      "type": "mundial"
+    },
+    {
+      "title": "México — Dia de Benito Juárez",
+      "type": "mundial"
+    },
+    {
+      "title": "Namíbia — Dia da Independência",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Pão Francês",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional das Tradições das Raízes de Matrizes Africanas e Nações do Candomblé",
+      "type": "nacional"
+    }
   ],
   "03-22": [
-    { "title": "Dia Mundial da Água", "type": "mundial" }
+    {
+      "title": "Dia Mundial da Água",
+      "type": "mundial"
+    },
+    {
+      "title": "O cometa Hale-Bopp tem a sua maior aproximação da Terra",
+      "type": "curiosidade",
+      "description": "O cometa Hale-Bopp tem a sua maior aproximação da Terra, em 1997."
+    },
+    {
+      "title": "Segunda Guerra Mundial: a Alemanha toma Memel da Lituânia",
+      "type": "curiosidade",
+      "description": "Segunda Guerra Mundial: a Alemanha toma Memel da Lituânia, em 1939."
+    }
+  ],
+  "03-23": [
+    {
+      "title": "Dia Mundial da Meteorologia",
+      "type": "mundial"
+    },
+    {
+      "title": "Paquistão – Dia da República",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Naturólogo",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Acupunturista",
+      "type": "nacional"
+    }
+  ],
+  "03-24": [
+    {
+      "title": "Dia Mundial de Combate à Tuberculose",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da União dos Povos Latino-Americanos",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional para o Direito à Verdade sobre Violações Graves de Direitos Humanos e para a Dignidade das…",
+      "type": "mundial",
+      "description": "Dia Internacional para o Direito à Verdade sobre Violações Graves de Direitos Humanos e para a Dignidade das Vítimas"
+    },
+    {
+      "title": "Dia do Estudante - Portugal",
+      "type": "mundial"
+    }
+  ],
+  "03-25": [
+    {
+      "title": "Grécia: Dia da Independência",
+      "type": "mundial"
+    },
+    {
+      "title": "Eslovênia: Dia das Mães",
+      "type": "mundial"
+    },
+    {
+      "title": "Bielorrússia: Dia da Liberdade",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional em Memória das Vítimas da Escravidão e do Comércio Transatlântico de Escravos",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia internacional da Solidariedade da Pessoa Detenta ou Desaparecida",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional da Comunidade Árabe",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Oficial de Justiça",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Constituição Brasileira",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Especialista de Aeronáutica",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Orgulho Gay",
+      "type": "nacional"
+    },
+    {
+      "title": "Data Magna do Estado do Ceará - Ceará",
+      "type": "nacional"
+    }
+  ],
+  "03-26": [
+    {
+      "title": "Dia do Mercosul",
+      "type": "mundial"
+    },
+    {
+      "title": "Bangladesh: Dia da Independência",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Cacau",
+      "type": "nacional"
+    }
   ],
   "03-27": [
-    { "title": "Dia Mundial do Teatro", "type": "mundial" }
+    {
+      "title": "Dia Mundial do Teatro",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Circo",
+      "type": "nacional"
+    },
+    {
+      "title": "Macedônia do Norte torna-se o 30.º membro da OTAN",
+      "type": "curiosidade",
+      "description": "Macedônia do Norte torna-se o 30.º membro da OTAN, em 2020."
+    }
+  ],
+  "03-28": [
+    {
+      "title": "Eslováquia e República Tcheca – Dia do Professor",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Revisor",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional de Lutas Estudantis",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Diagramador",
+      "type": "nacional"
+    }
+  ],
+  "03-29": [
+    {
+      "title": "Taiwan — Dia da Juventude",
+      "type": "mundial"
+    },
+    {
+      "title": "O Reino Unido anexa o Panjabe",
+      "type": "curiosidade",
+      "description": "O Reino Unido anexa o Panjabe, em 1849."
+    },
+    {
+      "title": "Inauguração da Ponte Vasco da Gama, sobre o rio Tejo",
+      "type": "curiosidade",
+      "description": "Inauguração da Ponte Vasco da Gama, sobre o rio Tejo, em 1998."
+    }
+  ],
+  "03-30": [
+    {
+      "title": "Dia Mundial do Transtorno Bipolar",
+      "type": "mundial"
+    },
+    {
+      "title": "Tenzin Gyatso, o 14.º Dalai-lama, foge do Tibete para a Índia",
+      "type": "curiosidade",
+      "description": "Tenzin Gyatso, o 14.º Dalai-lama, foge do Tibete para a Índia, em 1959."
+    },
+    {
+      "title": "Assinada a Convenção Única sobre Entorpecentes em Nova Iorque",
+      "type": "curiosidade",
+      "description": "Assinada a Convenção Única sobre Entorpecentes em Nova Iorque, em 1961."
+    }
   ],
   "03-31": [
-    { "title": "Dia Mundial do Backup", "type": "curiosidade", "description": "Lembrete informal para fazer backup dos seus dados." }
+    {
+      "title": "Dia Internacional da Visibilidade Transgênero",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional da Saúde e Nutrição",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Integração Nacional",
+      "type": "nacional"
+    }
   ],
   "04-01": [
-    { "title": "Dia da Mentira", "type": "curiosidade" }
+    {
+      "title": "Dia da Mentira ou das Mentiras",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional da Diversão no Trabalho",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Abolição da Escravidão dos Povos Indígenas",
+      "type": "nacional"
+    }
   ],
   "04-02": [
-    { "title": "Dia Mundial de Conscientização do Autismo", "type": "mundial" }
+    {
+      "title": "Dia Internacional do Livro Infanto-juvenil",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial de Conscientização do Autismo",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Propagandista",
+      "type": "nacional"
+    }
+  ],
+  "04-03": [
+    {
+      "title": "Dia do Desporto Comunitário",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Atuário",
+      "type": "nacional"
+    },
+    {
+      "title": "Tiroteio na sede do YouTube",
+      "type": "curiosidade",
+      "description": "Tiroteio na sede do YouTube, em 2018."
+    }
+  ],
+  "04-04": [
+    {
+      "title": "Dia Internacional Contra as Minas Antipessoais",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial dos Animais de Rua",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia das Crianças - Hong Kong e Taiwan",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Libertação - Hungria",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia dos Heróis - Lesoto",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Parkinsoniano",
+      "type": "nacional"
+    }
+  ],
+  "04-05": [
+    {
+      "title": "Dia Internacional da Consciência",
+      "type": "mundial"
+    },
+    {
+      "title": "Coreia do Sul: Dia da Árvore",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia das Telecomunicações",
+      "type": "nacional"
+    }
+  ],
+  "04-06": [
+    {
+      "title": "Dia Mundial da Atividade Física",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional do Desporto ao Serviço do Desenvolvimento e a Paz",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional da Assexualidade",
+      "type": "mundial"
+    },
+    {
+      "title": "Início do ano fiscal - Reino Unido",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Tartan, um dia reservado a celebração dos escoceses - Estados Unidos, Argentina, Canadá e Escócia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional de Mobilização pela Promoção da Saúde e Qualidade de Vida",
+      "type": "nacional"
+    }
   ],
   "04-07": [
-    { "title": "Dia Mundial da Saúde", "type": "mundial" }
+    {
+      "title": "Dia Mundial da Saúde",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional para Reflexão do Genocídio de 1994 contra os Tutsi em Ruanda",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Jornalista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Corretor",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Médico Legista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional de Combate ao Bullying e à Violência na Escola",
+      "type": "nacional"
+    }
+  ],
+  "04-08": [
+    {
+      "title": "Dia Mundial do Combate ao Câncer",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Astronomia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional das Pessoas Ciganas",
+      "type": "mundial"
+    },
+    {
+      "title": "Festival das Flores, em que é celebrado o nascimento de Buda - Japão",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Shiatsu - Japão",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Natação",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Sistema Braille",
+      "type": "nacional"
+    }
+  ],
+  "04-09": [
+    {
+      "title": "Dia Nacional do Aço",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Biblioteca",
+      "type": "nacional"
+    },
+    {
+      "title": "O Jornal do Brasil é fundado por Rodolfo Dantas",
+      "type": "curiosidade",
+      "description": "O Jornal do Brasil é fundado por Rodolfo Dantas, em 1891."
+    }
+  ],
+  "04-10": [
+    {
+      "title": "Dia Mundial da Homeopatia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Engenharia",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Engenharia Militar",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Engenheiro Metalurgista",
+      "type": "nacional"
+    }
+  ],
+  "04-11": [
+    {
+      "title": "Dia Mundial de Conscientização da Doença de Parkinson",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Infectologista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Escola de Samba",
+      "type": "nacional"
+    },
+    {
+      "title": "Aniverário do município de Papanduva, Santa Catarina",
+      "type": "nacional"
+    }
   ],
   "04-12": [
-    { "title": "Dia Internacional do Voo Espacial Humano", "type": "mundial", "description": "Aniversário do voo de Yuri Gagarin, em 1961." }
+    {
+      "title": "Dia Internacional dos Voos Espaciais Tripulados",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Humorista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Engenheiro Naval",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Obstetra",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Intendência do Exército Brasileiro",
+      "type": "nacional"
+    }
+  ],
+  "04-13": [
+    {
+      "title": "Dia do Hino Nacional Brasileiro",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Mulher Sambista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Jovem",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Beijo",
+      "type": "nacional"
+    }
+  ],
+  "04-14": [
+    {
+      "title": "Dia Mundial do Café",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial Quântico",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Doença de Chagas",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Pan-americano",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Patinador",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Técnico em Serviço de Saúde",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Neurocirurgião",
+      "type": "nacional"
+    }
+  ],
+  "04-15": [
+    {
+      "title": "Dia Internacional do Ciclista",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Arte",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial do Desenhista",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia de Jackie Robinson — Estados Unidos",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Sol — Coreia do Norte",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Desarmamento Infantil",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Conservação do Solo",
+      "type": "nacional"
+    }
+  ],
+  "04-16": [
+    {
+      "title": "Dia Mundial da Voz",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional da Lembrança do Holocausto",
+      "type": "nacional"
+    },
+    {
+      "title": "O exército francês captura Veracruz na Guerra dos Pastéis",
+      "type": "curiosidade",
+      "description": "O exército francês captura Veracruz na Guerra dos Pastéis, em 1838."
+    }
+  ],
+  "04-17": [
+    {
+      "title": "Dia Mundial do Hemofílico",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional de Luta dos Trabalhadores do Campo",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional da Síria",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional da Botânica",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional de Luta pela Reforma Agrária",
+      "type": "nacional"
+    }
+  ],
+  "04-18": [
+    {
+      "title": "Dia do Patrimônio Mundial",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial do Radioamadorismo",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia de Monteiro Lobato",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Livro Infantil",
+      "type": "nacional"
+    }
   ],
   "04-19": [
-    { "title": "Dia do Índio", "type": "nacional" }
+    {
+      "title": "Dia do Exército Brasileiro",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia dos Povos Indígenas",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Psicomotricista",
+      "type": "nacional"
+    }
+  ],
+  "04-20": [
+    {
+      "title": "Dia do Disco de Vinil",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Diplomata",
+      "type": "nacional"
+    },
+    {
+      "title": "Apollo 16, comandada por John Young, pousa na Lua",
+      "type": "curiosidade",
+      "description": "Apollo 16, comandada por John Young, pousa na Lua, em 1972."
+    }
   ],
   "04-21": [
-    { "title": "Tiradentes", "type": "nacional" }
+    {
+      "title": "Aniversário de Roma - Itália",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Criatividade e Inovação",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia de Tiradentes",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Têxtil",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Polícia Civil e Polícia Militar",
+      "type": "nacional"
+    },
+    {
+      "title": "Aniversário de Brasília, Distrito Federal",
+      "type": "nacional"
+    },
+    {
+      "title": "Aniversário do Distrito Federal",
+      "type": "nacional"
+    }
   ],
   "04-22": [
-    { "title": "Dia da Terra", "type": "mundial" }
+    {
+      "title": "Dia Mundial da Terra",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Descobrimento do Brasil",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Aviação de Caça da Força Aérea Brasileira",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Comunidade Luso-Brasileira",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Agente de viagens",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Tontura",
+      "type": "nacional"
+    }
   ],
   "04-23": [
-    { "title": "Dia Mundial do Livro", "type": "mundial" }
+    {
+      "title": "Dia Mundial do Livro e do Direito de Autor",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial do Escoteiro",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Choro",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Serralheiro",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Educação de Surdos",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado estadual no Rio de Janeiro - Solenidade de São Jorge",
+      "type": "nacional"
+    }
+  ],
+  "04-24": [
+    {
+      "title": "Dia Internacional do Multilateralismo e da Diplomacia para a Paz",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional do Jovem Trabalhador",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional do Milho",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial de Combate à Meningite",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Boi",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Samurai",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Penitenciário",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Família na Escola",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Língua Brasileira de Sinais",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Churrasco e do Chimarrão - Rio Grande do Sul",
+      "type": "nacional"
+    }
+  ],
+  "04-25": [
+    {
+      "title": "Dia Mundial de Luta Contra a Malária",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional de Combate à Alienação Parental",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do DNA",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Telégrafo Sem Fio",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia ANZAC - Austrália e Nova Zelândia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia das Forças Armadas - Coreia do Norte",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional da Bandeira - Suazilândia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Libertação - Itália",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Contabilista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Despachante Aduaneiro",
+      "type": "nacional"
+    }
+  ],
+  "04-26": [
+    {
+      "title": "Dia Mundial da Propriedade Intelectual",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional da Visibilidade Lésbica",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Goleiro",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Juiz Trabalhista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Prevenção e Combate à Hipertensão Arterial",
+      "type": "nacional"
+    }
+  ],
+  "04-27": [
+    {
+      "title": "Dia Mundial do Design Gráfico",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Liberdade - África do Sul",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Levante Contra a Ocupação - Eslovénia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Empregada Doméstica",
+      "type": "nacional"
+    }
+  ],
+  "04-28": [
+    {
+      "title": "Dia Mundial da Segurança e da Saúde no Trabalho",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Caatinga",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Educação",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Sogra",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Observador de Aves",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional em Memória das Vítimas de Acidentes e Doenças do Trabalho",
+      "type": "nacional"
+    }
+  ],
+  "04-29": [
+    {
+      "title": "Dia Internacional da Dança",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial dos Fanzines",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Verde - Japão",
+      "type": "mundial"
+    }
+  ],
+  "04-30": [
+    {
+      "title": "Dia Internacional do Jazz",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Rainha — Países Baixos",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Libertação - Vietnam",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional da Mulher",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Profissional de Eventos",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Ferroviário",
+      "type": "nacional"
+    }
   ],
   "05-01": [
-    { "title": "Dia do Trabalho", "type": "nacional" },
-    { "title": "Dia Mundial do Trabalhador", "type": "mundial" }
+    {
+      "title": "Dia Mundial do Trabalhador",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Literatura Brasileira",
+      "type": "nacional"
+    },
+    {
+      "title": "Inauguração da Exposição Universal em Chicago",
+      "type": "curiosidade",
+      "description": "Inauguração da Exposição Universal em Chicago, em 1893."
+    }
+  ],
+  "05-02": [
+    {
+      "title": "Dia da Bandeira - Polónia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Região de Madri - Espanha",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional de Luta pela Cidadania, Dignidade e Direitos Humanos na Política Nacional sobre Drogas",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Ex-combatente",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Ética",
+      "type": "nacional"
+    }
   ],
   "05-03": [
-    { "title": "Dia Mundial da Liberdade de Imprensa", "type": "mundial" }
+    {
+      "title": "Dia Mundial da Liberdade de Imprensa",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional do Sol",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Parlamento",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Cientista Político",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Taquígrafo",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Sertanejo",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Pau-brasil",
+      "type": "nacional"
+    }
   ],
   "05-04": [
-    { "title": "Dia do Orgulho Nerd", "type": "curiosidade", "description": "\"May the 4th be with you\" — referência a Star Wars." }
+    {
+      "title": "Dia de Star Wars",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional do Bombeiro",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Engenheiro de Estruturas (Calculista Estrutural)",
+      "type": "nacional"
+    }
+  ],
+  "05-05": [
+    {
+      "title": "Dia Internacional da Língua Portuguesa e da Cultura Lusófona",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Higiene das Mãos",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional da Parteira",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial do Trânsito e da Cortesia ao Volante",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia das Crianças - Japão",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Imigração Indiana - Guiana",
+      "type": "mundial"
+    },
+    {
+      "title": "Festa do Dragão - China",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Líder Comunitário",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional das Comunicações",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Expedicionário",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Uso Racional de Medicamento",
+      "type": "nacional"
+    },
+    {
+      "title": "O Dia Nacional da Pessoa com Visão Monocular",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Marechal Rondon",
+      "type": "nacional"
+    }
+  ],
+  "05-06": [
+    {
+      "title": "Dia Nacional da Matemática",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Cartógrafo",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Coragem",
+      "type": "nacional"
+    }
+  ],
+  "05-07": [
+    {
+      "title": "Dia Internacional da Luta contra a Endometriose",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial de Atenção à Espondilite Anquilosante",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Oftalmologista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Silêncio",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional de Prevenção da Alergia",
+      "type": "nacional"
+    }
   ],
   "05-08": [
-    { "title": "Dia Mundial da Cruz Vermelha", "type": "mundial" }
+    {
+      "title": "Dia Mundial da Cruz Vermelha",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Vitória",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Talassemia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Turismo",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Artista Plástico",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Profissional de Marketing",
+      "type": "nacional"
+    }
+  ],
+  "05-09": [
+    {
+      "title": "Dia da Europa",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Vitória Soviética - Rússia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Memória - Uzbequistão",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Goku - Japão",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Empregado Sindical",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Estadual da Polícia Civil - Goiás",
+      "type": "nacional"
+    }
+  ],
+  "05-10": [
+    {
+      "title": "Dia Internacional de Atenção a Pessoa com Lúpus",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Campo",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Cavalaria",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Cozinheira",
+      "type": "nacional"
+    }
+  ],
+  "05-11": [
+    {
+      "title": "Dia da Integração do Telégrafo",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Reggae",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional dos Agentes de Trânsito",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Bandeira de Curitiba, capital do Paraná",
+      "type": "nacional"
+    }
+  ],
+  "05-12": [
+    {
+      "title": "Dia Internacional da Enfermagem",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Fibromialgia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional da Mulher na Matemática",
+      "type": "mundial"
+    }
   ],
   "05-13": [
-    { "title": "Abolição da Escravatura no Brasil", "type": "nacional", "description": "Assinatura da Lei Áurea, em 1888." }
+    {
+      "title": "Dia da Abolição da Escravatura no Brasil",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional de Denúncia contra o Racismo",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Zootecnista",
+      "type": "nacional"
+    }
+  ],
+  "05-14": [
+    {
+      "title": "Dia da Independência de Israel",
+      "type": "mundial"
+    },
+    {
+      "title": "Toma posse em Guiné-Bissau a presidente Carmen Pereira",
+      "type": "curiosidade",
+      "description": "Toma posse em Guiné-Bissau a presidente Carmen Pereira, em 1984."
+    },
+    {
+      "title": "Assinado o Tratado de Velasco em Velasco, República do Texas",
+      "type": "curiosidade",
+      "description": "Assinado o Tratado de Velasco em Velasco, República do Texas, em 1836."
+    }
   ],
   "05-15": [
-    { "title": "Dia Internacional da Família", "type": "mundial" }
+    {
+      "title": "Dia Mundial da Família",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional da Latinidade",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional da Objeção da Consciência ao Serviço Militar",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Independência - Paraguai",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Assistente Social",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Gerente Bancário",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Controle das Infecções Hospitalares",
+      "type": "nacional"
+    }
+  ],
+  "05-16": [
+    {
+      "title": "Dia do Gari",
+      "type": "nacional"
+    },
+    {
+      "title": "Atentado à imagem de Nossa Senhora Aparecida",
+      "type": "curiosidade",
+      "description": "Atentado à imagem de Nossa Senhora Aparecida, em 1978."
+    },
+    {
+      "title": "Em Roma, o Papa Bento XV canoniza Joana d’Arc",
+      "type": "curiosidade",
+      "description": "Em Roma, o Papa Bento XV canoniza Joana d’Arc, em 1920."
+    }
   ],
   "05-17": [
-    { "title": "Dia Mundial das Telecomunicações e da Sociedade da Informação", "type": "mundial" }
+    {
+      "title": "Adolphe Sax patenteia o saxofone",
+      "type": "curiosidade",
+      "description": "Adolphe Sax patenteia o saxofone, em 1846."
+    },
+    {
+      "title": "Ana da Dinamarca é coroada Rainha da Escócia",
+      "type": "curiosidade",
+      "description": "Ana da Dinamarca é coroada Rainha da Escócia, em 1590."
+    },
+    {
+      "title": "Fundação da cidade de Montreal, na Nova França",
+      "type": "curiosidade",
+      "description": "Fundação da cidade de Montreal, na Nova França, em 1642."
+    }
+  ],
+  "05-18": [
+    {
+      "title": "Dia Internacional dos Museus",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional de Combate ao Abuso e à Exploração Sexual de Crianças e Adolescentes",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Luta Antimanicomial",
+      "type": "nacional"
+    }
+  ],
+  "05-19": [
+    {
+      "title": "Dia Mundial da Doença Inflamatória do Intestino",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial do Físico",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Orgulho Agênero",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Defensor Público",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional de Doação de Leite Materno",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional de Combate à Cefaléia",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia dos acadêmicos de Direito",
+      "type": "nacional"
+    }
+  ],
+  "05-20": [
+    {
+      "title": "Dia Mundial das Abelhas",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Técnico e Auxiliar de Enfermagem",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Pedagogo",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Medicamento Genérico",
+      "type": "nacional"
+    }
   ],
   "05-21": [
-    { "title": "Dia Mundial da Diversidade Cultural", "type": "mundial" }
+    {
+      "title": "Dia Mundial para o Desenvolvimento Cultural",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Língua Nacional",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Profissional de Letras",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Afilhado",
+      "type": "nacional"
+    }
+  ],
+  "05-22": [
+    {
+      "title": "Dia Internacional da Biodiversidade",
+      "type": "mundial"
+    },
+    {
+      "title": "A escravidão é abolida na Martinica",
+      "type": "curiosidade",
+      "description": "A escravidão é abolida na Martinica, em 1848."
+    },
+    {
+      "title": "HMS Beagle parte em sua primeira viagem",
+      "type": "curiosidade",
+      "description": "HMS Beagle parte em sua primeira viagem, em 1826."
+    }
+  ],
+  "05-23": [
+    {
+      "title": "Dia Mundial da Tartaruga",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Juventude Constitucionalista",
+      "type": "nacional"
+    },
+    {
+      "title": "Inauguração da Biblioteca Pública de Nova Iorque",
+      "type": "curiosidade",
+      "description": "Inauguração da Biblioteca Pública de Nova Iorque, em 1911."
+    }
+  ],
+  "05-24": [
+    {
+      "title": "Dia Europeu dos Parques Naturais",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Mecânico Aeronáutico",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Esquizofrenia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Visibilidade Pan",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Coração Aquecido",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Milho",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Povo Cigano",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Café",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Infantaria",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Telegrafista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Digitador",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Vestibulando",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado Municipal em Colorado (PR), Goiânia (GO) e Bagé (RS) — solenidade de Nossa Senhora Auxiliadora",
+      "type": "nacional"
+    }
   ],
   "05-25": [
-    { "title": "Dia Internacional da Toalha", "type": "curiosidade", "description": "Homenagem ao livro \"O Guia do Mochileiro das Galáxias\"." }
+    {
+      "title": "Dia da Toalha",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Orgulho Nerd",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da África",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional do Sapateado",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional das Crianças Desaparecidas",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional da Tireoide",
+      "type": "mundial"
+    },
+    {
+      "title": "Argentina - Revolução de Maio",
+      "type": "mundial"
+    },
+    {
+      "title": "Espanha - Dia do Orgulho Lusista e Reintegrata - Galiza",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Costureira",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Massagista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Indústria",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Adoção",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Esporte Escolar",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Respeito ao Contribuinte",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Trabalhador Rural",
+      "type": "nacional"
+    }
+  ],
+  "05-26": [
+    {
+      "title": "Dia Nacional de Combate ao Glaucoma",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Revendedor Lotérico",
+      "type": "nacional"
+    },
+    {
+      "title": "Criação da República Democrática da Geórgia",
+      "type": "curiosidade",
+      "description": "Criação da República Democrática da Geórgia, em 1918."
+    }
+  ],
+  "05-27": [
+    {
+      "title": "Dia Mundial dos Meios de Comunicação",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional da Mata Atlântica",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Profissional Liberal",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Serviço de Saúde",
+      "type": "nacional"
+    }
+  ],
+  "05-28": [
+    {
+      "title": "Criação do município de Corumbaíba (Goiás)",
+      "type": "nacional"
+    },
+    {
+      "title": "Realizada a primeira corrida TT da Ilha de Man",
+      "type": "curiosidade",
+      "description": "Realizada a primeira corrida TT da Ilha de Man, em 1907."
+    },
+    {
+      "title": "Fundação da Volkswagen, fabricante de automóveis alemã",
+      "type": "curiosidade",
+      "description": "Fundação da Volkswagen, fabricante de automóveis alemã, em 1937."
+    }
+  ],
+  "05-29": [
+    {
+      "title": "Dia Mundial da Energia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional dos Soldados da Paz das Nações Unidas",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional de Manifestações e Paralisações",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Operador de Empilhadeira",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Geógrafo",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Estatístico",
+      "type": "nacional"
+    }
+  ],
+  "05-30": [
+    {
+      "title": "Dia Mundial da Esclerose Múltipla",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Geólogo",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Mulher Militar",
+      "type": "nacional"
+    }
   ],
   "05-31": [
-    { "title": "Dia Mundial Sem Tabaco", "type": "mundial" }
+    {
+      "title": "Dia Mundial Sem Tabaco",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial do Tripulante de Cabine",
+      "type": "mundial"
+    },
+    {
+      "title": "Início da Copa do Mundo FIFA no México",
+      "type": "curiosidade",
+      "description": "Início da Copa do Mundo FIFA no México, em 1970."
+    }
   ],
   "06-01": [
-    { "title": "Dia Internacional da Criança", "type": "mundial" }
+    {
+      "title": "Dia da Imprensa",
+      "type": "nacional"
+    },
+    {
+      "title": "Adolf Eichmann é enforcado em Israel",
+      "type": "curiosidade",
+      "description": "Adolf Eichmann é enforcado em Israel, em 1962."
+    },
+    {
+      "title": "A Lei Seca entra em vigor na Finlândia",
+      "type": "curiosidade",
+      "description": "A Lei Seca entra em vigor na Finlândia, em 1919."
+    }
+  ],
+  "06-02": [
+    {
+      "title": "Dia Internacional da Prostituta",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Economista - Argentina",
+      "type": "mundial"
+    },
+    {
+      "title": "Festa della Repubblica Italiana (Festa da República) - Itália",
+      "type": "mundial"
+    }
+  ],
+  "06-03": [
+    {
+      "title": "Dia da Conscientização Contra a Obesidade Mórbida Infantil",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Bicicleta",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional da Educação Ambiental",
+      "type": "nacional"
+    }
+  ],
+  "06-04": [
+    {
+      "title": "Dia Internacional das Crianças Vítimas de Agressão",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Corrida",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia de Tonga - Data de sua emancipação política",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Engenheiro Agrimensor",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Ibituruna no município de Governador Valadares, Minas Gerais",
+      "type": "nacional"
+    }
   ],
   "06-05": [
-    { "title": "Dia Mundial do Meio Ambiente", "type": "mundial" }
+    {
+      "title": "Dia Mundial do Ambiente",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional de Combate à Pesca Ilegal, Não Declarada e Não Regulamentada",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia de Domna - Irlanda",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Ecologia",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Engenheiro Mecânico",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Reciclagem",
+      "type": "nacional"
+    }
+  ],
+  "06-06": [
+    {
+      "title": "Dia Internacional da Logística",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional de Triagem Neonatal (Teste do Pezinho)",
+      "type": "nacional"
+    },
+    {
+      "title": "Lançamento do jogo eletrônico Tetris",
+      "type": "curiosidade",
+      "description": "Lançamento do jogo eletrônico Tetris, em 1984."
+    }
+  ],
+  "06-07": [
+    {
+      "title": "Dia Mundial da Segurança dos Alimentos",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional da Liberdade de Imprensa",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional dos Catadores de Material Reciclável",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Síndrome de Tourette",
+      "type": "nacional"
+    }
   ],
   "06-08": [
-    { "title": "Dia Mundial dos Oceanos", "type": "mundial" }
+    {
+      "title": "Dia Mundial dos Oceanos",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Oceanógrafo",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Citricultor",
+      "type": "nacional"
+    }
+  ],
+  "06-09": [
+    {
+      "title": "Dia Internacional dos Arquivos",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Porteiro",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Tenista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Imunização",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional de Anchieta",
+      "type": "nacional"
+    }
+  ],
+  "06-10": [
+    {
+      "title": "Dia da Artilharia",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Faturista Hospitalar",
+      "type": "nacional"
+    },
+    {
+      "title": "Saab produz seu primeiro automóvel",
+      "type": "curiosidade",
+      "description": "Saab produz seu primeiro automóvel, em 1947."
+    }
+  ],
+  "06-11": [
+    {
+      "title": "Aniversário de fundação da cidade de Buenos Aires - Argentina",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Marinha Brasileira",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Educador Sanitário",
+      "type": "nacional"
+    }
   ],
   "06-12": [
-    { "title": "Dia dos Namorados", "type": "nacional" }
+    {
+      "title": "Dia da Rússia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Paz no Chaco — Paraguai",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Independência das Filipinas",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial contra o Trabalho Infantil",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia dos Namorados",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Correio Aéreo Nacional",
+      "type": "nacional"
+    }
   ],
   "06-13": [
-    { "title": "Dia de Santo Antônio", "type": "curiosidade" }
+    {
+      "title": "Dia Internacional de Conscientização sobre o Albinismo",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional do Softbol",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Turista",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado municipal em Pirajuí, Lins, Americana, Adamantina, Cordeirópolis, Guaratinguetá, Lapa, Pinheiral,…",
+      "type": "nacional",
+      "description": "Feriado municipal em Pirajuí, Lins, Americana, Adamantina, Cordeirópolis, Guaratinguetá, Lapa, Pinheiral, Rancharia, Santo Antônio da Alegria, Santo Antônio de Posse, Santo Antônio de Pádua, Tijucas - Solenidade de Santo Antônio e aniversário dessas cidades."
+    },
+    {
+      "title": "Feriado municipal em Caraguatatuba, Duque de Caxias, Garanhuns, Governador Valadares, Juiz de Fora, Nova…",
+      "type": "nacional",
+      "description": "Feriado municipal em Caraguatatuba, Duque de Caxias, Garanhuns, Governador Valadares, Juiz de Fora, Nova Iguaçu, Osasco, Piancó,Itabaiana e centenas de outros municípios - Solenidade de Santo Antônio, padroeiro dessas cidades. A relação de cidades que comemora-se o dia do padroeiro Santo Antônio é longa e atinge centenas de cidades."
+    }
   ],
   "06-14": [
-    { "title": "Dia Mundial do Doador de Sangue", "type": "mundial" }
+    {
+      "title": "Dia Mundial do Doador de Sangue",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Universal de Deus",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Bandeira - Estados Unidos",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Solista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia de Nhá Chica – Feriado nos municípios de Baependi e São João del-Rei, Minas Gerais",
+      "type": "nacional"
+    }
+  ],
+  "06-15": [
+    {
+      "title": "Dia Mundial de Conscientização da Violência contra a Pessoa Idosa",
+      "type": "mundial"
+    },
+    {
+      "title": "Aniversário do estado do Acre",
+      "type": "nacional"
+    },
+    {
+      "title": "Inaugurada em São Paulo, a TV Cultura",
+      "type": "curiosidade",
+      "description": "Inaugurada em São Paulo, a TV Cultura, em 1969."
+    }
+  ],
+  "06-16": [
+    {
+      "title": "Dia da Criança Africana - África do Sul",
+      "type": "mundial"
+    },
+    {
+      "title": "Bloomsday - Irlanda",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional das Remessas Familiares",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional da Tartaruga Marinha",
+      "type": "mundial"
+    },
+    {
+      "title": "Feriado municipal em Tambaú, São Paulo - aniversário da morte do padre Donizetti Tavares de Lima",
+      "type": "nacional"
+    }
   ],
   "06-17": [
-    { "title": "Dia Mundial de Combate à Desertificação", "type": "mundial" }
+    {
+      "title": "Dia Mundial do Combate à Seca e à Desertificação",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia dos Pais - El Salvador e Guatemala",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Independência da Islândia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Funcionário Público Aposentado",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Fundação do Grande Oriente do Brasil - GOB",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Gestor Ambiental",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Medicina Veterinária Militar Brasileira",
+      "type": "nacional"
+    },
+    {
+      "title": "Aniversário do munícipio de São João da Barra, Rio de Janeiro",
+      "type": "nacional"
+    }
+  ],
+  "06-18": [
+    {
+      "title": "Dia do Orgulho Autista",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Imigração Japonesa",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Químico",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Gastronomia Sustentável",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Evangélico - Rondônia",
+      "type": "nacional"
+    }
+  ],
+  "06-19": [
+    {
+      "title": "Dia Internacional para a Eliminação da Violência Sexual em Conflitos",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial de Conscientização sobre a Doença Falciforme",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Migrante",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Luto",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Cinema Brasileiro",
+      "type": "nacional"
+    }
   ],
   "06-20": [
-    { "title": "Dia Mundial do Refugiado", "type": "mundial" }
+    {
+      "title": "Dia Mundial do Refugiado",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Bandeira da Argentina",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Revendedor",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Vigilante",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Advogado Trabalhista",
+      "type": "nacional"
+    }
   ],
   "06-21": [
-    { "title": "Dia Mundial de Andar de Skate", "type": "curiosidade" }
+    {
+      "title": "Dia Mundial do Yoga",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Aperto de Mão",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Girafa",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Hidrografia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial do Skate",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Intelectual",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Controle da Asma",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional de Luta contra a Esclerose Lateral Amiotrófica",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Profissional de Mídia",
+      "type": "nacional"
+    }
+  ],
+  "06-22": [
+    {
+      "title": "Dia Mundial do Fusca",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial das Florestas Tropicais",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Orquidófilo",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Aeroviário",
+      "type": "nacional"
+    }
   ],
   "06-23": [
-    { "title": "Dia Olímpico", "type": "mundial" }
+    {
+      "title": "Dia do Atleta Olímpico",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Universal Olímpico",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial do Desporto Olímpico",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Lavrador",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia das Nações Unidas para o Serviço Público",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional das Mulheres na Engenharia",
+      "type": "mundial"
+    }
   ],
   "06-24": [
-    { "title": "Dia de São João", "type": "curiosidade" }
+    {
+      "title": "Dia Internacional do Disco voador",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Observador Aéreo",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Indústria Gráfica",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional da Araucária",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Polícia Militar",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado municipal em Barueri, Caruaru, João Pessoa, Recife, Salvador, Niterói e centenas de outros municípios…",
+      "type": "nacional",
+      "description": "Feriado municipal em Barueri, Caruaru, João Pessoa, Recife, Salvador, Niterói e centenas de outros municípios - Solenidade de São João, padroeiro dessas cidades. A relação de cidades que comemora-se o dia do padroeiro São João é longa e atinge centenas de cidades."
+    },
+    {
+      "title": "Feriado estadual em Alagoas e Sergipe - Solenidade de São João",
+      "type": "nacional"
+    }
+  ],
+  "06-25": [
+    {
+      "title": "Dia Mundial do Vitiligo",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial do Marinheiro",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial dos Beatles",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Cotonete",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Imigrante",
+      "type": "nacional"
+    }
+  ],
+  "06-26": [
+    {
+      "title": "Dia Internacional contra o Abuso e Tráfico Ilícito de Drogas",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia das Nações Unidas do Apoio às Vítimas de Tortura",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Diabetes",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Metrologista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Professor de Geografia",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Aviação de Busca e Salvamento",
+      "type": "nacional"
+    }
+  ],
+  "06-27": [
+    {
+      "title": "Dia Internacional da Pessoa com Surdo-Cegueira",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional das Micro, Pequenas e Médias Empresas",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Mestiço",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Vôlei",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Técnico em Nutrição e Dietética",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Progresso",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado municipal em Taguatinga, DF e Teodoro Sampaio, SP — Solenidade de Nossa Senhora do Perpétuo Socorro",
+      "type": "nacional"
+    }
+  ],
+  "06-28": [
+    {
+      "title": "Dia Internacional do Orgulho LGBT",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Constituição da Ucrânia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Memória de Posnâmia",
+      "type": "mundial"
+    }
   ],
   "06-29": [
-    { "title": "Dia de São Pedro", "type": "curiosidade" }
+    {
+      "title": "Dia do Papa",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Pescador",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Telefonista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Chaveiro",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Dublador",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Aviação de Segurança Público",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado municipal em Petrópolis, Rio de Janeiro — Dia do Colono Alemão",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado estadual",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriados municipais:",
+      "type": "nacional"
+    }
+  ],
+  "06-30": [
+    {
+      "title": "Dia Internacional do Asteroide",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional do Parlamentarismo",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional do Profissional em Biotecnologia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Mídia Social",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Bumba Meu Boi",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Fiscal Federal Agropecuário",
+      "type": "nacional"
+    }
+  ],
+  "07-01": [
+    {
+      "title": "Dia Internacional do Reggae",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Território do Norte - Austrália",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Canadá",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Fundação do Partido Comunista da China - China",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Marinha - Turquia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Vacina BCG",
+      "type": "nacional"
+    }
+  ],
+  "07-02": [
+    {
+      "title": "Dia do Bombeiro Brasileiro",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Hospital",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado Estadual na Bahia - Data da Consolidação da Independência do Brasil na Bahia",
+      "type": "nacional"
+    }
+  ],
+  "07-03": [
+    {
+      "title": "O último casal de Arau-gigante é morto",
+      "type": "curiosidade",
+      "description": "O último casal de Arau-gigante é morto, em 1844."
+    },
+    {
+      "title": "A Pedra da Coroação é devolvida para a Escócia",
+      "type": "curiosidade",
+      "description": "A Pedra da Coroação é devolvida para a Escócia, em 1996."
+    },
+    {
+      "title": "Dow Jones & Company publica sua primeira média de ações",
+      "type": "curiosidade",
+      "description": "Dow Jones & Company publica sua primeira média de ações, em 1884."
+    }
+  ],
+  "07-04": [
+    {
+      "title": "Dia do Operador de Telemarketing",
+      "type": "nacional"
+    },
+    {
+      "title": "Primeiro voo do Lockheed Vega",
+      "type": "curiosidade",
+      "description": "Primeiro voo do Lockheed Vega, em 1927."
+    },
+    {
+      "title": "A Alemanha Ocidental vence a Copa do Mundo FIFA",
+      "type": "curiosidade",
+      "description": "A Alemanha Ocidental vence a Copa do Mundo FIFA, em 1954."
+    }
+  ],
+  "07-05": [
+    {
+      "title": "Dia Mundial do Biquini",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Capoeira",
+      "type": "mundial"
+    },
+    {
+      "title": "Jeff Bezos funda a Amazon",
+      "type": "curiosidade",
+      "description": "Jeff Bezos funda a Amazon, em 1994."
+    }
+  ],
+  "07-06": [
+    {
+      "title": "Dia do Six-Seven (6-7)",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional das Zoonoses",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional do Beijo",
+      "type": "mundial"
+    },
+    {
+      "title": "Comores e Malawi — Dia da Independência",
+      "type": "mundial"
+    },
+    {
+      "title": "Início das Festas de São Firmino em Pamplona, Espanha",
+      "type": "mundial"
+    }
+  ],
+  "07-07": [
+    {
+      "title": "Dia Mundial do Chocolate",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Ingresso da Mulher na Marinha",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Estadual do Funk de São Paulo",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia de Zé Pilintra - Rio de Janeiro",
+      "type": "nacional"
+    }
+  ],
+  "07-08": [
+    {
+      "title": "Dia Mundial da Alergia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional do Sacolé",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Padeiro",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Ciência",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Pesquisador Científico",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Bandeira da cidade do Rio de Janeiro",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Emancipação do Estado de Sergipe",
+      "type": "nacional"
+    }
+  ],
+  "07-09": [
+    {
+      "title": "Dia Internacional pelo Desarmamento",
+      "type": "mundial"
+    },
+    {
+      "title": "Independência da Argentina",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Soldado Constitucionalista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Oncologista",
+      "type": "nacional"
+    },
+    {
+      "title": "Data Magna do Estado de São Paulo - feriado estadual (Revolução Constitucionalista de 1932)",
+      "type": "nacional"
+    }
+  ],
+  "07-10": [
+    {
+      "title": "Dia Mundial da Lei",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Pizza",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia de Nicolas Tesla",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Saúde Ocular",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Engenheiro de Minas",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Estadual do Frescobol (Rio de Janeiro)",
+      "type": "nacional"
+    }
   ],
   "07-11": [
-    { "title": "Dia Mundial da População", "type": "mundial" }
+    {
+      "title": "Dia Mundial da População",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Socorrista",
+      "type": "nacional"
+    },
+    {
+      "title": "Giovanni Agnelli funda a FIAT",
+      "type": "curiosidade",
+      "description": "Giovanni Agnelli funda a FIAT, em 1899."
+    }
+  ],
+  "07-12": [
+    {
+      "title": "Dia do Engenheiro Florestal",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Funk",
+      "type": "nacional"
+    },
+    {
+      "title": "Começa a Guerra do Líbano",
+      "type": "curiosidade",
+      "description": "Começa a Guerra do Líbano, em 2006."
+    }
   ],
   "07-13": [
-    { "title": "Dia Mundial do Rock", "type": "curiosidade" }
+    {
+      "title": "Dia Mundial do Rock",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial do Transtorno de Déficit de Atenção e Hiperatividade",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Engenheiro de Saneamento",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Cantor",
+      "type": "nacional"
+    }
+  ],
+  "07-14": [
+    {
+      "title": "Dia Mundial do Hospital",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional das Pessoas Não Binárias",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Bastilha - França",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Liberdade de Pensamento",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Propagandista de Laboratório",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Engenheiro de Aquicultura",
+      "type": "nacional"
+    }
+  ],
+  "07-15": [
+    {
+      "title": "Dia Mundial das Habilidades da Juventude",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Pecuarista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional dos Clubes",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Homem",
+      "type": "nacional"
+    }
+  ],
+  "07-16": [
+    {
+      "title": "Dia Mundial da Cobra",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Comerciante",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado municipal em Betim, Carmo do Rio Claro, Parintins, Recife e dezenas de outros municípios - Solenidade…",
+      "type": "nacional",
+      "description": "Feriado municipal em Betim, Carmo do Rio Claro, Parintins, Recife e dezenas de outros municípios - Solenidade de Nossa Senhora do Carmo. A relação de cidades que comemora-se o dia da padroeira Nossa Senhora do Carmo é longa e atinge dezenas de cidades."
+    }
   ],
   "07-17": [
-    { "title": "Dia Mundial da Justiça Penal Internacional", "type": "mundial" }
+    {
+      "title": "Dia de Proteção às Florestas",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Submarinista",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial do Emoji",
+      "type": "mundial"
+    }
   ],
   "07-18": [
-    { "title": "Dia Internacional de Nelson Mandela", "type": "mundial" }
+    {
+      "title": "Dia Internacional Nelson Mandela",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Escuta",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Trovador",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Veterano",
+      "type": "nacional"
+    }
+  ],
+  "07-19": [
+    {
+      "title": "Dia Nacional do Futebol",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional das Juntas Comerciais",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Caridade",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia dos Povos Oprimidos",
+      "type": "nacional"
+    }
   ],
   "07-20": [
-    { "title": "Dia do Amigo", "type": "curiosidade" }
+    {
+      "title": "Dia Internacional da Lua",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional do Xadrez",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional da Amizade",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Pan-americano do Engenheiro",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Pirulito",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Amigo",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Biscoito",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Tatuador",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Revendedor do Posto de Gasolina",
+      "type": "nacional"
+    }
+  ],
+  "07-21": [
+    {
+      "title": "Dia da Junk Food",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Dançarino de Salão",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Garimpeiro",
+      "type": "nacional"
+    }
+  ],
+  "07-22": [
+    {
+      "title": "Dia Mundial do Cérebro",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional da Manga",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional do Trabalhador Doméstico",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Aproximação do Pi (π)",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Cientista Social",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Cantor Lírico",
+      "type": "nacional"
+    }
+  ],
+  "07-23": [
+    {
+      "title": "Dia do Guarda Rodoviário",
+      "type": "nacional"
+    },
+    {
+      "title": "É descoberto o asteroide 114 Kassandra",
+      "type": "curiosidade",
+      "description": "É descoberto o asteroide 114 Kassandra, em 1871."
+    },
+    {
+      "title": "Reino da Prússia reconquista Mainz da França",
+      "type": "curiosidade",
+      "description": "Reino da Prússia reconquista Mainz da França, em 1793."
+    }
+  ],
+  "07-24": [
+    {
+      "title": "Dia Internacional da Tequila",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional do Autocuidado",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial do BDSM",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Suinocultor",
+      "type": "nacional"
+    }
+  ],
+  "07-25": [
+    {
+      "title": "Dia Internacional da Mulher Negra Latino-Americana e Caribenha",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial de Prevenção ao Afogamento",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional da Agricultura Familiar",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Motorista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Taxista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Escritor",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Colono",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Mulher Negra",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Imigração Alemã",
+      "type": "nacional"
+    }
   ],
   "07-26": [
-    { "title": "Dia dos Avós", "type": "curiosidade" }
+    {
+      "title": "Dia dos Avós",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Moedeiro",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial de Proteção aos Manguezais",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Arqueólogo",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado municipal em Caicó, Feira de Santana, Mogi das Cruzes, Ponta Grossa, Castro e outros municípios -…",
+      "type": "nacional",
+      "description": "Feriado municipal em Caicó, Feira de Santana, Mogi das Cruzes, Ponta Grossa, Castro e outros municípios - Solenidade de Sant'Ana, padroeira dessas cidades. A relação de cidades que comemora-se o dia da padroeira Sant'Ana é longa e atinge centenas de casos."
+    },
+    {
+      "title": "Feriado municipal em São Joaquim da Barra - Solenidade de São Joaquim, padroeiro da cidade",
+      "type": "nacional"
+    }
+  ],
+  "07-27": [
+    {
+      "title": "Dia Mundial de Combate ao Câncer de Cabeça e Pescoço",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Vitória na Grande Guerra de Libertação da Pátria – Coreia do Norte",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Despachante Documentalista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Motociclista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Prevenção de Acidentes de Trabalho",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Pediatra",
+      "type": "nacional"
+    }
+  ],
+  "07-28": [
+    {
+      "title": "Dia Mundial de Combate à Hepatite",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Independência do Peru",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Agricultor",
+      "type": "nacional"
+    }
+  ],
+  "07-29": [
+    {
+      "title": "Dia Internacional do Tigre",
+      "type": "mundial"
+    },
+    {
+      "title": "Início do bombardeamento de Belgrado",
+      "type": "curiosidade",
+      "description": "Início do bombardeamento de Belgrado, em 1914."
+    },
+    {
+      "title": "Inauguração do Arco do Triunfo em Paris",
+      "type": "curiosidade",
+      "description": "Inauguração do Arco do Triunfo em Paris, em 1836."
+    }
   ],
   "07-30": [
-    { "title": "Dia Internacional da Amizade", "type": "mundial" }
+    {
+      "title": "Dia Mundial Contra o Tráfico de Pessoas",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial do Bordado",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional da Amizade",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Independência de Vanuatu",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Cirurgião Geral",
+      "type": "nacional"
+    }
+  ],
+  "07-31": [
+    {
+      "title": "Dia Mundial do Guarda Florestal",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Mulher Africana",
+      "type": "mundial"
+    },
+    {
+      "title": "Mitologia nórdica: Festival de Loki e Sigyn",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Vira Lata",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Campanha do Quilo",
+      "type": "nacional"
+    }
+  ],
+  "08-01": [
+    {
+      "title": "Dia Mundial da Amamentação",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial do Câncer de Pulmão",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Selo",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Poeta de Literatura de Cordel",
+      "type": "nacional"
+    }
+  ],
+  "08-02": [
+    {
+      "title": "Dia Nacional da Natação",
+      "type": "nacional"
+    },
+    {
+      "title": "Inauguração da Sinagoga Portuguesa de Amsterdão",
+      "type": "curiosidade",
+      "description": "Inauguração da Sinagoga Portuguesa de Amsterdão, em 1675."
+    },
+    {
+      "title": "Império do Brasil: Pedro I casa-se com Amélia de Beauharnais",
+      "type": "curiosidade",
+      "description": "Império do Brasil: Pedro I casa-se com Amélia de Beauharnais, em 1829."
+    }
+  ],
+  "08-03": [
+    {
+      "title": "Dia do Tintureiro",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Capoeirista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Fim da Censura",
+      "type": "nacional"
+    }
+  ],
+  "08-04": [
+    {
+      "title": "Dia do Padre",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Campanha Educativa de Combate ao Câncer",
+      "type": "nacional"
+    },
+    {
+      "title": "A Suprema Corte do Japão é estabelecida",
+      "type": "curiosidade",
+      "description": "A Suprema Corte do Japão é estabelecida, em 1947."
+    }
+  ],
+  "08-05": [
+    {
+      "title": "Dia Nacional da Saúde",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Cultura Caipira",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Vigilância Sanitária",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Farmácia",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado na Paraíba e em municípios como Vigia de Nazaré, Pará e Ribeirão das Neves, Minas Gerais — Solenidade…",
+      "type": "nacional",
+      "description": "Feriado na Paraíba e em municípios como Vigia de Nazaré, Pará e Ribeirão das Neves, Minas Gerais — Solenidade de Nossa Senhora das Neves, padroeira desses municípios."
+    }
   ],
   "08-06": [
-    { "title": "Bombardeio de Hiroshima", "type": "mundial", "description": "Data de memória histórica, 1945." }
+    {
+      "title": "Dia da Transfiguração de Jesus",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Profissional da Educação",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado estadual no Acre - início da Revolução Acriana",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado municipal em Bom Jesus da Lapa, Iguape, Olinda, Pouso Alegre e centenas de outros municípios -…",
+      "type": "nacional",
+      "description": "Feriado municipal em Bom Jesus da Lapa, Iguape, Olinda, Pouso Alegre e centenas de outros municípios - Solenidade de Senhor Bom Jesus, padroeiro dessas cidades. A relação de municípios que comemora-se o dia do padroeiro Bom Jesus é longa e atinge centenas de casos."
+    }
+  ],
+  "08-07": [
+    {
+      "title": "Dia Nacional do Documentário Brasileiro",
+      "type": "nacional"
+    },
+    {
+      "title": "Aniversário do estado do Rio Grande do Norte",
+      "type": "nacional"
+    },
+    {
+      "title": "Costa do Marfim torna-se independente da França",
+      "type": "curiosidade",
+      "description": "Costa do Marfim torna-se independente da França, em 1960."
+    }
+  ],
+  "08-08": [
+    {
+      "title": "Dia Nacional de Controle do Colesterol",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Pessoa com Atrofia Muscular Espinhal",
+      "type": "nacional"
+    },
+    {
+      "title": "Ocorre a insurreição de Lyon durante a Revolução Francesa",
+      "type": "curiosidade",
+      "description": "Ocorre a insurreição de Lyon durante a Revolução Francesa, em 1793."
+    }
   ],
   "08-09": [
-    { "title": "Dia Internacional dos Povos Indígenas", "type": "mundial" }
+    {
+      "title": "Dia Internacional dos Povos Indígenas",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional do Coworking",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional do Melão",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional da Equoterapia",
+      "type": "nacional"
+    }
+  ],
+  "08-10": [
+    {
+      "title": "Dia Mundial do Leão",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Solidariedade Cristã",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional do Biodiesel",
+      "type": "mundial"
+    }
   ],
   "08-11": [
-    { "title": "Dia do Estudante", "type": "nacional" }
+    {
+      "title": "Dia Internacional da Logosofia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Advogado",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Estudante",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Garçom",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Pendura",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Televisão",
+      "type": "nacional"
+    }
   ],
   "08-12": [
-    { "title": "Dia Internacional da Juventude", "type": "mundial" }
+    {
+      "title": "Dia Internacional da Juventude",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional do Elefante",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional do Disco de Vinil",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Filho do Meio",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional das Artes",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional dos Direitos Humanos",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Presbiterianismo Nacional",
+      "type": "nacional"
+    }
+  ],
+  "08-13": [
+    {
+      "title": "Dia Internacional do Canhoto",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional da deusa Hécate",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Economista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Psiquiatra",
+      "type": "nacional"
+    }
+  ],
+  "08-14": [
+    {
+      "title": "Dia Nacional de Conscientização sobre a Paternidade Responsável",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Combate à Poluição",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Cardiologista",
+      "type": "nacional"
+    }
+  ],
+  "08-15": [
+    {
+      "title": "Feriado nacional na Itália, chamado Ferragosto — em referência à Assunção de Maria",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Gestante",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Solteiro",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Informática",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Imigração Chinesa",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado estadual no Tocantins — Solenidade de Senhor do Bonfim",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado estadual no Pará — Adesão à Independência do Brasil",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado municipal em Antonina, Cananéia, Belo Horizonte, Fortaleza, Jundiaí, Maringá, São Carlos, Vitória da…",
+      "type": "nacional",
+      "description": "Feriado municipal em Antonina, Cananéia, Belo Horizonte, Fortaleza, Jundiaí, Maringá, São Carlos, Vitória da Conquista entre outros municípios pelo Brasil - Solenidade da Assunção de Maria."
+    }
+  ],
+  "08-16": [
+    {
+      "title": "Dia do Filósofo",
+      "type": "nacional"
+    },
+    {
+      "title": "Chipre ganha sua independência do Reino Unido",
+      "type": "curiosidade",
+      "description": "Chipre ganha sua independência do Reino Unido, em 1960."
+    },
+    {
+      "title": "Revolução Francesa: a levée en masse é decretada pela Convenção Nacional",
+      "type": "curiosidade",
+      "description": "Revolução Francesa: a levée en masse é decretada pela Convenção Nacional, em 1793."
+    }
+  ],
+  "08-17": [
+    {
+      "title": "Dia do Pão de Queijo",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Patrimônio Histórico",
+      "type": "nacional"
+    },
+    {
+      "title": "O Gabão torna-se independente da França",
+      "type": "curiosidade",
+      "description": "O Gabão torna-se independente da França, em 1960."
+    }
+  ],
+  "08-18": [
+    {
+      "title": "Dia Mundial da Libertação Humana",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Revolução Cultural Chinesa",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Estagiário",
+      "type": "nacional"
+    }
   ],
   "08-19": [
-    { "title": "Dia Mundial Humanitário", "type": "mundial" },
-    { "title": "Dia Mundial da Fotografia", "type": "curiosidade" }
+    {
+      "title": "Dia Mundial Humanitário",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Fotografia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Orgulho Lésbico",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Historiador",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Integração Jurídica Latino-Americana",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Artista de Teatro",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Ciclista",
+      "type": "nacional"
+    }
+  ],
+  "08-20": [
+    {
+      "title": "Dia Mundial do Mosquito",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Maçom",
+      "type": "nacional"
+    },
+    {
+      "title": "Os aliados dissolvem o exército alemão",
+      "type": "curiosidade",
+      "description": "Os aliados dissolvem o exército alemão, em 1946."
+    }
+  ],
+  "08-21": [
+    {
+      "title": "Dia Internacional em Memória e Tributo às Vítimas do Terrorismo",
+      "type": "mundial"
+    },
+    {
+      "title": "Início da Semana Nacional da Pessoa com Deficiência Intelectual e Múltipla",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Habitação",
+      "type": "nacional"
+    }
   ],
   "08-22": [
-    { "title": "Dia Nacional do Folclore", "type": "nacional" }
+    {
+      "title": "Dia do Folclore Brasileiro",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Educador Especial",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Coordenador Pedagógico",
+      "type": "nacional"
+    }
   ],
   "08-23": [
-    { "title": "Dia Internacional de Lembrança do Tráfico de Escravos e sua Abolição", "type": "mundial" }
+    {
+      "title": "Dia Internacional de Combate à Injustiça",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional para Relembrar o Tráfico de Escravos e sua Abolição",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Internauta",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Aviador Naval",
+      "type": "nacional"
+    }
+  ],
+  "08-24": [
+    {
+      "title": "Dia da Independência da Ucrânia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Infância",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Artista",
+      "type": "nacional"
+    }
   ],
   "08-25": [
-    { "title": "Dia do Soldado", "type": "nacional" }
+    {
+      "title": "Dia da Banana Split",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Feirante",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Soldado",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Legalidade",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Educação Infantil",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado no Município de Duque de Caxias, Rio de Janeiro, em tributo a Luís Alves de Lima e Silva",
+      "type": "nacional"
+    }
+  ],
+  "08-26": [
+    {
+      "title": "Dia Internacional da Declaração dos Direitos do Homem e do Cidadão",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional da Igualdade Feminina",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial do Cachorro",
+      "type": "mundial"
+    }
+  ],
+  "08-27": [
+    {
+      "title": "Dia do Corretor de Imóveis",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Limpeza Urbana",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Psicólogo",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Estadual do Rio Paranapanema - São Paulo",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado municipal em Maceió - Dia da Padroeira Nossa Senhora dos Prazeres",
+      "type": "nacional"
+    }
+  ],
+  "08-28": [
+    {
+      "title": "Dia do Voluntariado",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Bancário",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Avicultor",
+      "type": "nacional"
+    }
+  ],
+  "08-29": [
+    {
+      "title": "Dia Nacional da Visibilidade Lésbica",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional de Combate ao Fumo",
+      "type": "nacional"
+    },
+    {
+      "title": "Fundada a empresa de pneus Goodyear",
+      "type": "curiosidade",
+      "description": "Fundada a empresa de pneus Goodyear, em 1898."
+    }
+  ],
+  "08-30": [
+    {
+      "title": "Dia Internacional das Vítimas dos Desaparecimentos Forçados",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Perdão",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional de Conscientização sobre a Esclerose Múltipla",
+      "type": "nacional"
+    }
+  ],
+  "08-31": [
+    {
+      "title": "Dia Internacional do Blog",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Nutricionista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Samba-Rock",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado em Vigia de Nazaré, Pará - Dia da adesão a independência do Brasil",
+      "type": "nacional"
+    }
+  ],
+  "09-01": [
+    {
+      "title": "Início do Setembro Amarelo🎗- campanha brasileira de prevenção ao suicídio",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial de Oração pelo Cuidado da Criação",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Profissional de Educação Física",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Bailarina/Bailarino",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado municipal em Senhora dos Remédios, Minas Gerais - Solenidade de Nossa Senhora dos Remédios, padroeira…",
+      "type": "nacional",
+      "description": "Feriado municipal em Senhora dos Remédios, Minas Gerais - Solenidade de Nossa Senhora dos Remédios, padroeira da cidade"
+    },
+    {
+      "title": "Feriado municipal em Ipaba, Minas Gerais e Crato, Ceará - Solenidade de Nossa Senhora da Penha, padroeira das…",
+      "type": "nacional",
+      "description": "Feriado municipal em Ipaba, Minas Gerais e Crato, Ceará - Solenidade de Nossa Senhora da Penha, padroeira das cidades"
+    }
+  ],
+  "09-02": [
+    {
+      "title": "Dia do Florista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Repórter Cinematográfico e Fotográfico",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Kombi",
+      "type": "nacional"
+    }
+  ],
+  "09-03": [
+    {
+      "title": "Dia do Biólogo",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Guarda Civil",
+      "type": "nacional"
+    },
+    {
+      "title": "O Catar se torna um Estado independente",
+      "type": "curiosidade",
+      "description": "O Catar se torna um Estado independente, em 1971."
+    }
+  ],
+  "09-04": [
+    {
+      "title": "Dia do Serventuário",
+      "type": "nacional"
+    },
+    {
+      "title": "Golpe de 18 Frutidor na França",
+      "type": "curiosidade",
+      "description": "Golpe de 18 Frutidor na França, em 1797."
+    },
+    {
+      "title": "Ocorre a Fuga dos Condes na Irlanda",
+      "type": "curiosidade",
+      "description": "Ocorre a Fuga dos Condes na Irlanda, em 1607."
+    }
   ],
   "09-05": [
-    { "title": "Dia da Amazônia", "type": "nacional" }
+    {
+      "title": "Dia do Oficial de Farmácia",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Amazônia",
+      "type": "nacional"
+    },
+    {
+      "title": "Elevação do Amazonas à categoria de Província",
+      "type": "nacional"
+    }
+  ],
+  "09-06": [
+    {
+      "title": "Dia do Alfaiate",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Sexo",
+      "type": "nacional"
+    },
+    {
+      "title": "A Suazilândia torna-se independente do Reino Unido",
+      "type": "curiosidade",
+      "description": "A Suazilândia torna-se independente do Reino Unido, em 1968."
+    }
   ],
   "09-07": [
-    { "title": "Independência do Brasil", "type": "nacional" }
+    {
+      "title": "Dia da Independência do Brasil",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia de São Carlo Acutis em Curitiba",
+      "type": "nacional"
+    },
+    {
+      "title": "É inaugurado o Canal Saimaa",
+      "type": "curiosidade",
+      "description": "É inaugurado o Canal Saimaa, em 1856."
+    }
   ],
   "09-08": [
-    { "title": "Dia Internacional da Alfabetização", "type": "mundial" }
+    {
+      "title": "Dia Mundial da Alfabetização",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial de Conscientização e Divulgação da Fibrose Cística",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Fisioterapia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional de Luta por Medicamentos",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Terço dos Homens",
+      "type": "nacional"
+    },
+    {
+      "title": "Festa da Natividade de Nossa Senhora",
+      "type": "nacional"
+    }
+  ],
+  "09-09": [
+    {
+      "title": "Dia do Cachorro-Quente",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Grávida",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Administrador",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Velocidade",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Bug",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Médico Veterinário",
+      "type": "nacional"
+    }
+  ],
+  "09-10": [
+    {
+      "title": "Dia do Gordo",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Luta Contra a Gordofobia",
+      "type": "nacional"
+    },
+    {
+      "title": "Guiné-Bissau ganha independência de Portugal",
+      "type": "curiosidade",
+      "description": "Guiné-Bissau ganha independência de Portugal, em 1974."
+    }
   ],
   "09-11": [
-    { "title": "Atentados de 11 de Setembro", "type": "mundial", "description": "Data de memória histórica, 2001." }
+    {
+      "title": "Dia do Cerrado",
+      "type": "nacional"
+    },
+    {
+      "title": "Aniversario na cidade de Jurema em Pernambuco",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado municipal em Aliança",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado municipal em Araripina",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado municipal em Cabrobó",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado municipal em Carpina",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado municipal em Catende",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado municipal em Surubim",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado municipal em Ribeirão",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado municipal em Vicência",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado municipal em Itaú de Minas",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado municipal em Custódia",
+      "type": "nacional"
+    }
+  ],
+  "09-12": [
+    {
+      "title": "Dia Mundial do Crochê",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Urologista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Operador de Rastreamento",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Recreação",
+      "type": "nacional"
+    }
+  ],
+  "09-13": [
+    {
+      "title": "Dia do Programador",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial do Agrônomo",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Sepse",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional da Cachaça",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional de Luta dos Acidentados por Fontes Radioativas",
+      "type": "nacional"
+    }
+  ],
+  "09-14": [
+    {
+      "title": "Dia Internacional da Capivara",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Frevo",
+      "type": "nacional"
+    },
+    {
+      "title": "Microsoft lança o Windows ME",
+      "type": "curiosidade",
+      "description": "Microsoft lança o Windows ME, em 2000."
+    }
   ],
   "09-15": [
-    { "title": "Dia Internacional da Democracia", "type": "mundial" }
+    {
+      "title": "Dia do Cliente",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Musicoterapeuta",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado municipal em Caruaru, Pará de Minas, Magé, Juazeiro do Norte, Guaxupé, Senador Pompeu e dezenas de…",
+      "type": "nacional",
+      "description": "Feriado municipal em Caruaru, Pará de Minas, Magé, Juazeiro do Norte, Guaxupé, Senador Pompeu e dezenas de outros municípios pelo Brasil - dia da padroeira Nossa Senhora das Dores."
+    }
   ],
   "09-16": [
-    { "title": "Dia Internacional da Preservação da Camada de Ozônio", "type": "mundial" }
+    {
+      "title": "Dia da Independência do México",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional para a Preservação da Camada de Ozônio",
+      "type": "mundial"
+    },
+    {
+      "title": "Emancipação Política de Alagoas",
+      "type": "nacional"
+    }
+  ],
+  "09-17": [
+    {
+      "title": "Dia Mundial da Segurança do Paciente",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Compreensão Mundial",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Transportador Rodoviário de Carga",
+      "type": "nacional"
+    }
+  ],
+  "09-18": [
+    {
+      "title": "Dia Nacional da Televisão",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia dos Símbolos Nacionais",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional de Conscientização e Incentivo ao Diagnóstico Precoce do Retinoblastoma",
+      "type": "nacional"
+    }
   ],
   "09-19": [
-    { "title": "Dia de Falar Como um Pirata", "type": "curiosidade" }
+    {
+      "title": "Dia do Ortopedista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Oleiro",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Teatro",
+      "type": "nacional"
+    }
+  ],
+  "09-20": [
+    {
+      "title": "Dia do Gaúcho",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional dos Desbravadores",
+      "type": "nacional"
+    },
+    {
+      "title": "Guiana é admitida como Estado-Membro da ONU",
+      "type": "curiosidade",
+      "description": "Guiana é admitida como Estado-Membro da ONU, em 1966."
+    }
   ],
   "09-21": [
-    { "title": "Dia Internacional da Paz", "type": "mundial" },
-    { "title": "Dia da Árvore", "type": "nacional" }
+    {
+      "title": "Dia Internacional da Paz",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Doença de Alzheimer",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Árvore",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Adolescente",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Radialista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Fazendeiro",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Luta das Pessoas com Deficiência",
+      "type": "nacional"
+    }
+  ],
+  "09-22": [
+    {
+      "title": "Equinócio de Setembro: Primavera no hemisfério sul e Outono no hemisfério norte",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial Sem Carro",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Banana",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Contador",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Atleta Paralímpico",
+      "type": "nacional"
+    }
+  ],
+  "09-23": [
+    {
+      "title": "Dia Internacional das Línguas de Sinais",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Visibilidade Bissexual",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional contra a Exploração Sexual e o Tráfico de Mulheres e Crianças",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia dos Filhos",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Sorvete",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Soldador",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do beato Padre Victor – Feriado nos municípios de Campanha e Três Pontas - Minas Gerais",
+      "type": "nacional"
+    }
+  ],
+  "09-24": [
+    {
+      "title": "Dia Nacional do Mototaxista",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado em Cuité, Paraíba, e Jaicós, Piauí - Dia da padroeira Nossa Senhora das Mercês",
+      "type": "nacional"
+    },
+    {
+      "title": "Fundação da Honda Motor Company",
+      "type": "curiosidade",
+      "description": "Fundação da Honda Motor Company, em 1948."
+    }
+  ],
+  "09-25": [
+    {
+      "title": "Dia Internacional do Farmacêutico",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Trânsito",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Radiodifusão e do Rádio",
+      "type": "nacional"
+    }
+  ],
+  "09-26": [
+    {
+      "title": "Dia Nacional dos Surdos",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Internacionalista",
+      "type": "nacional"
+    },
+    {
+      "title": "Independência da Nova Zelândia",
+      "type": "curiosidade",
+      "description": "Independência da Nova Zelândia, em 1907."
+    }
   ],
   "09-27": [
-    { "title": "Dia Mundial do Turismo", "type": "mundial" }
+    {
+      "title": "Dia Mundial do Turismo",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional da Doação de Órgãos e Tecidos",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Encanador e Instalador Hidráulico",
+      "type": "nacional"
+    }
   ],
   "09-28": [
-    { "title": "Dia Nacional do Trânsito", "type": "nacional" }
+    {
+      "title": "Dia Mundial Contra a Raiva",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional do Acesso Universal à Informação",
+      "type": "mundial"
+    },
+    {
+      "title": "Indonésia é admitida como Estado-Membro da ONU",
+      "type": "curiosidade",
+      "description": "Indonésia é admitida como Estado-Membro da ONU, em 1950."
+    }
+  ],
+  "09-29": [
+    {
+      "title": "Dia Mundial do Coração",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial do Petróleo",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Selinho",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Paraquedista Militar",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional de São Miguel Arcanjo",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado municipal em São Miguel (RN), Ipojuca e Santa Cruz do Capibaribe (PE), Guanhães, Jequitinhonha, Nova…",
+      "type": "nacional",
+      "description": "Feriado municipal em São Miguel (RN), Ipojuca e Santa Cruz do Capibaribe (PE), Guanhães, Jequitinhonha, Nova Ponte, Rio Piracicaba e Santos Dumont (MG), São Miguel do Oeste (SC) - Dia do Padroeiro: São Miguel Arcanjo."
+    }
   ],
   "09-30": [
-    { "title": "Dia Internacional da Tradução", "type": "mundial" }
+    {
+      "title": "Dia Internacional da Tradução e/ou do Tradutor Intérprete",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Bíblia Católica",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Navegação",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Secretária",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Jornaleiro",
+      "type": "nacional"
+    }
   ],
   "10-01": [
-    { "title": "Dia Internacional da Pessoa Idosa", "type": "mundial" }
+    {
+      "title": "Dia Internacional da Música",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial do Vendedor",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Urticária",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial do Vegetarianismo",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional da Pessoa Idosa",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Vereador",
+      "type": "nacional"
+    }
   ],
   "10-02": [
-    { "title": "Dia Internacional da Não-Violência", "type": "mundial" }
+    {
+      "title": "Dia Internacional da Não-Violência",
+      "type": "mundial"
+    },
+    {
+      "title": "É inaugurado o Museu de Arte de São Paulo",
+      "type": "curiosidade",
+      "description": "É inaugurado o Museu de Arte de São Paulo, em 1947."
+    },
+    {
+      "title": "A Guiné declara sua independência da França",
+      "type": "curiosidade",
+      "description": "A Guiné declara sua independência da França, em 1958."
+    }
+  ],
+  "10-03": [
+    {
+      "title": "Dia Nacional das Abelhas",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Engenheiro de Energia",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Profissional de Organização",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado estadual no Rio Grande do Norte: dia dos Mártires de Cunhaú e Uruaçu",
+      "type": "nacional"
+    }
   ],
   "10-04": [
-    { "title": "Dia Mundial dos Animais", "type": "mundial" }
+    {
+      "title": "Dia Nacional do Agente Comunitário de Saúde",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Médico do Trabalho",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Agente de Segurança Socioeducativo",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Barman",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado em Paulo Afonso (BA), São Francisco de Assis (RS), Ariquemes, (RO), Ilha Solteira e Taubaté (SP),…",
+      "type": "nacional",
+      "description": "Feriado em Paulo Afonso (BA), São Francisco de Assis (RS), Ariquemes, (RO), Ilha Solteira e Taubaté (SP), Umuarama e Chopinzinho (PR) e diversas cidades brasileiras - Dia do Padroeiro: São Francisco de Assis."
+    }
   ],
   "10-05": [
-    { "title": "Dia Mundial dos Professores", "type": "mundial" }
+    {
+      "title": "Dia Mundial do Professor",
+      "type": "mundial"
+    },
+    {
+      "title": "Aniversário dos estados brasileiros (feriados):",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Empreendedor",
+      "type": "nacional"
+    }
+  ],
+  "10-06": [
+    {
+      "title": "Dia Mundial da Paralisia Cerebral",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional do Kink",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Circulista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Prefeito",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Tecnólogo",
+      "type": "nacional"
+    }
+  ],
+  "10-07": [
+    {
+      "title": "Dia do Compositor Brasileiro",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado Municipal em Paranaguá e Colombo (PR) - Dia da Padroeira: Nossa Senhora do Rosário",
+      "type": "nacional"
+    },
+    {
+      "title": "A Quarta Constituição Soviética é adotada",
+      "type": "curiosidade",
+      "description": "A Quarta Constituição Soviética é adotada, em 1977."
+    }
+  ],
+  "10-08": [
+    {
+      "title": "Dia do Asfaltador",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Nordestino",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional pelo Direito à Vida",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Combate a Cartéis",
+      "type": "nacional"
+    }
   ],
   "10-09": [
-    { "title": "Dia Mundial do Correio", "type": "mundial" }
+    {
+      "title": "Dia Mundial dos Correios",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Atletismo",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Analista de Suporte",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Profissional do Consórcio",
+      "type": "nacional"
+    }
   ],
   "10-10": [
-    { "title": "Dia Mundial da Saúde Mental", "type": "mundial" }
+    {
+      "title": "Dia Mundial da Saúde Mental",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial Contra a Pena de Morte",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional de Luta contra a Violência à Mulher",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional de Segurança e Saúde nas Escolas",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional dos Veteranos da Marinha",
+      "type": "nacional"
+    }
+  ],
+  "10-11": [
+    {
+      "title": "Dia Internacional da Menina",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional da Pessoa com Deficiência Física",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional de Prevenção da Obesidade",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Teatro Municipal",
+      "type": "nacional"
+    },
+    {
+      "title": "Emancipação Política do Mato Grosso do Sul",
+      "type": "nacional"
+    }
   ],
   "10-12": [
-    { "title": "Nossa Senhora Aparecida", "type": "nacional" },
-    { "title": "Dia das Crianças", "type": "nacional" }
+    {
+      "title": "Dia Mundial da Artrite Reumatoide",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Padroeira: Nossa Senhora Aparecida",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia das Crianças",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Cirurgião Pediátrico",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Engenheiro Agrônomo",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Corretor de Seguros",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Mar",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Leitura",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Fanzine",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Lobo-guará",
+      "type": "nacional"
+    }
+  ],
+  "10-13": [
+    {
+      "title": "Dia Internacional para a Redução de Catástrofes",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial do Escritor",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Trombose",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Fisioterapeuta",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Terapeuta Ocupacional",
+      "type": "nacional"
+    }
+  ],
+  "10-14": [
+    {
+      "title": "Dia do Meteorologista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Pecuária",
+      "type": "nacional"
+    },
+    {
+      "title": "A República de Ragusa é anexada pela França",
+      "type": "curiosidade",
+      "description": "A República de Ragusa é anexada pela França, em 1808."
+    }
   ],
   "10-15": [
-    { "title": "Dia do Professor", "type": "nacional" }
+    {
+      "title": "Dia Nacional do Professor",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Neurologista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Educador Ambiental",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Consumo Consciente",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado municipal em Teresópolis, Rio de Janeiro - dia da padroeira : Santa Teresa de Ávila",
+      "type": "nacional"
+    }
   ],
   "10-16": [
-    { "title": "Dia Mundial da Alimentação", "type": "mundial" }
+    {
+      "title": "Dia Mundial da Alimentação",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial do Pão",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Coluna",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Médico Anestesiologista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Ciência e Tecnologia",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Engenheiro de Alimentos",
+      "type": "nacional"
+    }
+  ],
+  "10-17": [
+    {
+      "title": "Dia Internacional para a Erradicação da Pobreza",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional da Vacinação",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Profissional de Propaganda",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Agricultura",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Eletricista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Música Popular Brasileira",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Topógrafo",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Indústria Aeronáutica Brasileira",
+      "type": "nacional"
+    }
+  ],
+  "10-18": [
+    {
+      "title": "Dia Mundial da Menopausa",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional das Leggings",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Pintor",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Médico",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Estivador",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia das Comunicações e Eletrônica da Marinha",
+      "type": "nacional"
+    }
+  ],
+  "10-19": [
+    {
+      "title": "Dia Mundial de Combate ao Câncer de Mama",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Piauí",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Profissional de Tecnologia de Informação",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Guarda Noturno",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Operador de Caixa",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Inovação",
+      "type": "nacional"
+    },
+    {
+      "title": "Aniversário do munícipio de Três Ranchos, Goiás",
+      "type": "nacional"
+    }
+  ],
+  "10-20": [
+    {
+      "title": "Dia Mundial da Osteoporose",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Estatística",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial do Controlador de Tráfego Aéreo",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Poeta",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Arquivista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Maquinista Ferroviário",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Filantropia",
+      "type": "nacional"
+    }
+  ],
+  "10-21": [
+    {
+      "title": "Dia Internacional da Mulher-Maravilha",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional da Maçã",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Iluminação",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional da Alimentação na Escola",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Podcast",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Contato Publicitário",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Ecumenismo",
+      "type": "nacional"
+    }
+  ],
+  "10-22": [
+    {
+      "title": "Dia do Enólogo",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Paraquedista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Praça",
+      "type": "nacional"
+    }
+  ],
+  "10-23": [
+    {
+      "title": "Dia da Aviação e do Aviador no Brasil",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Força Aérea Brasileira",
+      "type": "nacional"
+    },
+    {
+      "title": "Anúncio da comercialização do iPod",
+      "type": "curiosidade",
+      "description": "Anúncio da comercialização do iPod, em 2001."
+    }
   ],
   "10-24": [
-    { "title": "Dia das Nações Unidas", "type": "mundial" }
+    {
+      "title": "Dia Mundial da Informação para o Desenvolvimento",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia das Nações Unidas",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial de Combate à Poliomielite",
+      "type": "mundial"
+    }
+  ],
+  "10-25": [
+    {
+      "title": "Dia do Dentista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Sapateiro",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Engenheiro Civil",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Macarrão",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Saúde Bucal",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Democracia",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional de Combate ao Preconceito Contra as Pessoas com Nanismo",
+      "type": "nacional"
+    }
+  ],
+  "10-26": [
+    {
+      "title": "Dia da Visibilidade Intersexo",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Áustria",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Trabalhador da Construção Civil",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Matemático",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Metroviário",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional de Luta pelo Passe Livre",
+      "type": "nacional"
+    }
+  ],
+  "10-27": [
+    {
+      "title": "Dia Mundial do Patrimônio Audiovisual",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional de Mobilização Pró-Saúde da População Negra",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional de Luta pelos Direitos das Pessoas com Doenças Falciformes",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Engenheiro Agrícola",
+      "type": "nacional"
+    }
   ],
   "10-28": [
-    { "title": "Dia do Servidor Público", "type": "nacional" }
+    {
+      "title": "Dia de Senhor dos Milagres - Padroeiro de Lima, no Peru",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional da Animação",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial do Judô",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Servidor Público",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia de Zé Pelintra",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Engenheiro Aeronáutico",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Flamenguista",
+      "type": "nacional"
+    }
+  ],
+  "10-29": [
+    {
+      "title": "Dia Mundial da Psoríase",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial do Acidente Vascular Cerebral (AVC)",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da República (Cumhuriyet Bayramı), feriado nacional na Turquia que comemora a proclamação oficial da…",
+      "type": "mundial",
+      "description": "Dia da República (Cumhuriyet Bayramı), feriado nacional na Turquia que comemora a proclamação oficial da república"
+    },
+    {
+      "title": "Dia Nacional do Livro",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Cerimonialista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Prevenção da Lavagem de Dinheiro",
+      "type": "nacional"
+    }
+  ],
+  "10-30": [
+    {
+      "title": "Dia do Designer de Interiores",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Balconista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Comerciário",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Fisiculturista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Ginecologista e Obstetra",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Merendeira Escolar",
+      "type": "nacional"
+    }
   ],
   "10-31": [
-    { "title": "Dia das Bruxas", "type": "curiosidade" }
+    {
+      "title": "Dia Mundial da Poupança",
+      "type": "mundial"
+    },
+    {
+      "title": "Véspera de Todos os Santos ou Dia das Bruxas(Halloween)",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Reforma Protestante no Brasil e na Alemanha",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Dona de Casa",
+      "type": "nacional"
+    }
+  ],
+  "11-01": [
+    {
+      "title": "Dia Mundial Veganismo",
+      "type": "mundial"
+    },
+    {
+      "title": "Mitologia celta: Dia de Cailleach",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Sushi",
+      "type": "nacional"
+    }
   ],
   "11-02": [
-    { "title": "Finados", "type": "nacional" }
+    {
+      "title": "Dia dos Mortos no México",
+      "type": "mundial"
+    },
+    {
+      "title": "O presidente sul-vietnamita Ngô Đình Diệm é assassinado após um golpe militar",
+      "type": "curiosidade",
+      "description": "O presidente sul-vietnamita Ngô Đình Diệm é assassinado após um golpe militar, em 1963."
+    },
+    {
+      "title": "Haile Selassie, nascido Tafari Makonnen, torna-se o 111.º imperador da Etiópia",
+      "type": "curiosidade",
+      "description": "Haile Selassie, nascido Tafari Makonnen, torna-se o 111.º imperador da Etiópia, em 1930."
+    }
+  ],
+  "11-03": [
+    {
+      "title": "Dia da Independência do Panamá",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Saúde Única",
+      "type": "mundial"
+    },
+    {
+      "title": "No Japão, é comemorado o Dia da Cultura (após 1946) ou o Nascimento do Imperador (antes de 1946)",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Instituição do Direito de Voto Feminino",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Quilo",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Cabelereiro",
+      "type": "nacional"
+    }
+  ],
+  "11-04": [
+    {
+      "title": "Itália - Celebração da vitória na Primeira Guerra Mundial e dia das Forças Armadas",
+      "type": "mundial"
+    },
+    {
+      "title": "Rússia - Dia da Unidade Nacional",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Inventor",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Oficial da Reserva",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia das Favelas",
+      "type": "nacional"
+    }
   ],
   "11-05": [
-    { "title": "Guy Fawkes Night", "type": "curiosidade", "description": "Tradição britânica de fogos de artifício." }
+    {
+      "title": "Dia Mundial da Conscientização sobre Tsunamis",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Técnico em Eletrônica",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Cultura",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Designer",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Radioamador",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Técnico Agrícola",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Língua Portuguesa",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Técnico em Prótese Dentária",
+      "type": "nacional"
+    }
+  ],
+  "11-06": [
+    {
+      "title": "Dia Internacional para a Prevenção da Exploração do Ambiente em Tempo de Guerra e de Conflito Armado",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Riso",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Amigo da Marinha do Brasil",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Saxofonista",
+      "type": "mundial"
+    },
+    {
+      "title": "Aniversário do município de Poços de Caldas, Minas Gerais",
+      "type": "mundial"
+    },
+    {
+      "title": "Aniversário dos municípios de Governador Celso Ramos e Antônio Carlos, Santa Catarina",
+      "type": "mundial"
+    },
+    {
+      "title": "Aniversário do município de Antonina, Paraná",
+      "type": "mundial"
+    },
+    {
+      "title": "Aniversário do município de Morrinhos, Ceará",
+      "type": "mundial"
+    },
+    {
+      "title": "Aniversário do município de Altamira, Pará",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Festa do Santo Condestável Beato Nuno de Santa Maria Nuno Álvares Pereira",
+      "type": "mundial"
+    },
+    {
+      "title": "Criação dos municípios de Paços de Ferreira e de Valpaços",
+      "type": "mundial"
+    }
+  ],
+  "11-07": [
+    {
+      "title": "Dia do Radialista",
+      "type": "nacional"
+    },
+    {
+      "title": "Eclode a revolta da Sabinada em Salvador, Bahia",
+      "type": "curiosidade",
+      "description": "Eclode a revolta da Sabinada em Salvador, Bahia, em 1837."
+    },
+    {
+      "title": "Joe Biden é eleito presidente dos Estados Unidos",
+      "type": "curiosidade",
+      "description": "Joe Biden é eleito presidente dos Estados Unidos, em 2020."
+    }
+  ],
+  "11-08": [
+    {
+      "title": "Dia Mundial do Urbanismo",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional do Radiologista",
+      "type": "mundial"
+    },
+    {
+      "title": "Feriado municipal em Campo Belo do Sul, Santa Catarina: dia da padroeira Nossa Senhora do Patrocínio",
+      "type": "nacional"
+    }
   ],
   "11-09": [
-    { "title": "Queda do Muro de Berlim", "type": "mundial", "description": "Data de memória histórica, 1989." }
+    {
+      "title": "Dia da Independência do Camboja",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional Contra o Fascismo e o Antissemitismo",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Hoteleiro",
+      "type": "nacional"
+    }
+  ],
+  "11-10": [
+    {
+      "title": "Dia Mundial da Ciência pela Paz e pelo Desenvolvimento",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Trigo",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional de Prevenção e Combate à Surdez",
+      "type": "nacional"
+    }
+  ],
+  "11-11": [
+    {
+      "title": "Dia da Lembrança no Canadá",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia dos Veteranos nos Estados Unidos",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Armistício da Primeira Guerra Mundial",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Independência da Polônia",
+      "type": "mundial"
+    }
+  ],
+  "11-12": [
+    {
+      "title": "Dia Nacional da Liberdade",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Diretor de Escola",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Psicopedagogo",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Inventor",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Fluminense Football Club",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia dos Supermercados",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Pantanal",
+      "type": "nacional"
+    }
   ],
   "11-13": [
-    { "title": "Dia Mundial da Bondade", "type": "mundial" }
+    {
+      "title": "Dia Mundial da Gentileza",
+      "type": "mundial"
+    },
+    {
+      "title": "Grande Tempestade de Meteoros de 1833",
+      "type": "curiosidade",
+      "description": "Grande Tempestade de Meteoros de 1833, em 1833."
+    },
+    {
+      "title": "Ocorre o Domingo Sangrento no centro de Londres",
+      "type": "curiosidade",
+      "description": "Ocorre o Domingo Sangrento no centro de Londres, em 1887."
+    }
   ],
   "11-14": [
-    { "title": "Dia Mundial do Diabetes", "type": "mundial" }
+    {
+      "title": "Dia Mundial do Diabetes",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional dos Vendedores Ambulantes",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Bandeirante",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Alfabetização",
+      "type": "nacional"
+    }
   ],
   "11-15": [
-    { "title": "Proclamação da República", "type": "nacional" }
+    {
+      "title": "Toma posse no Brasil o presidente Afonso Pena",
+      "type": "curiosidade",
+      "description": "Toma posse no Brasil o presidente Afonso Pena, em 1906."
+    },
+    {
+      "title": "Toma posse no Brasil o presidente Campos Sales",
+      "type": "curiosidade",
+      "description": "Toma posse no Brasil o presidente Campos Sales, em 1898."
+    },
+    {
+      "title": "Toma posse no Brasil o presidente Venceslau Brás",
+      "type": "curiosidade",
+      "description": "Toma posse no Brasil o presidente Venceslau Brás, em 1914."
+    }
   ],
   "11-16": [
-    { "title": "Dia Internacional da Tolerância", "type": "mundial" }
+    {
+      "title": "Dia Internacional da Tolerância",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Pátria - Síria",
+      "type": "mundial"
+    },
+    {
+      "title": "Fundação da UNESCO",
+      "type": "curiosidade",
+      "description": "Fundação da UNESCO, em 1945."
+    }
+  ],
+  "11-17": [
+    {
+      "title": "Dia Internacional dos Estudantes",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional de Sensibilização para a Prematuridade",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial de Combate ao Câncer de Próstata",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Criatividade",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional de Combate à Tuberculose",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado Estadual no Acre: Emancipação Política",
+      "type": "nacional"
+    }
+  ],
+  "11-18": [
+    {
+      "title": "Letônia: Dia da Independência",
+      "type": "mundial"
+    },
+    {
+      "title": "Omã: Dia da Pátria",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Conselheiro Tutelar",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Tabelião e Registrador",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Colecionador",
+      "type": "nacional"
+    }
   ],
   "11-19": [
-    { "title": "Dia da Bandeira", "type": "nacional" },
-    { "title": "Dia Internacional do Homem", "type": "mundial" }
+    {
+      "title": "Dia Mundial da Sanita",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Prevenção a Violência Doméstica Contra Crianças e Adolescentes",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional do Homem",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Empreendedorismo Feminino",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial do Xadrez",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional de Mônaco",
+      "type": "mundial"
+    }
   ],
   "11-20": [
-    { "title": "Dia da Consciência Negra", "type": "nacional" }
+    {
+      "title": "Dia Mundial da Criança",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional de Zumbi e da Consciência Negra",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Biomédico",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Técnico em Contabilidade",
+      "type": "nacional"
+    }
   ],
   "11-21": [
-    { "title": "Dia Mundial da Televisão", "type": "mundial" }
+    {
+      "title": "Dia Mundial da Pesca",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Televisão",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Saudação",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional da Homeopatia",
+      "type": "nacional"
+    }
+  ],
+  "11-22": [
+    {
+      "title": "Dia do Músico",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Comunidade Libanesa",
+      "type": "nacional"
+    },
+    {
+      "title": "Assassinato de Gordon Church",
+      "type": "curiosidade",
+      "description": "Assassinato de Gordon Church, em 1988."
+    }
+  ],
+  "11-23": [
+    {
+      "title": "Dia Mundial da Aquarela",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Combate ao Câncer Infantil",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Engenheiro Eletricista",
+      "type": "nacional"
+    }
+  ],
+  "11-24": [
+    {
+      "title": "Dia do Quadro Auxiliar de Oficiais",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Instrutor de Língua Brasileira de Sinais (Libras)",
+      "type": "nacional"
+    },
+    {
+      "title": "Charles Darwin publica A Origem das Espécies",
+      "type": "curiosidade",
+      "description": "Charles Darwin publica A Origem das Espécies, em 1859."
+    }
   ],
   "11-25": [
-    { "title": "Dia Internacional pela Eliminação da Violência contra a Mulher", "type": "mundial" }
+    {
+      "title": "Dia Internacional para a Eliminação da Violência Contra as Mulheres",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Baiana de Acarajé",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Doador Voluntário de Sangue",
+      "type": "nacional"
+    }
+  ],
+  "11-26": [
+    {
+      "title": "Dia Interamericano do Ministério Público",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Batalha dos Aflitos",
+      "type": "nacional"
+    },
+    {
+      "title": "O foguete Delta II faz seu voo inaugural",
+      "type": "curiosidade",
+      "description": "O foguete Delta II faz seu voo inaugural, em 1990."
+    }
+  ],
+  "11-27": [
+    {
+      "title": "Dia do Técnico em Segurança do Trabalho",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional de Combate ao Câncer",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional de Luta contra o Câncer de Mama",
+      "type": "nacional"
+    }
+  ],
+  "11-28": [
+    {
+      "title": "Dia da Bandeira na Albânia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da República no Chade",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da República na República do Congo",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Independência da Mauritânia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Independência do Panamá",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Independência do Timor-Leste",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Soldado Desconhecido",
+      "type": "nacional"
+    }
+  ],
+  "11-29": [
+    {
+      "title": "Dia Nacional da Albânia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional dos Defensores dos Direitos da Mulher",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional de Solidariedade com o Povo Palestino",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional da Onça-Pintada",
+      "type": "mundial"
+    }
+  ],
+  "11-30": [
+    {
+      "title": "Dia em Memória das Vítimas da Guerra Química",
+      "type": "mundial"
+    },
+    {
+      "title": "Fim oficial da Guerra do Golfo",
+      "type": "curiosidade",
+      "description": "Fim oficial da Guerra do Golfo, em 1995."
+    },
+    {
+      "title": "A Wikipédia lusófona completa 200 mil artigos criados",
+      "type": "curiosidade",
+      "description": "A Wikipédia lusófona completa 200 mil artigos criados, em 2006."
+    }
   ],
   "12-01": [
-    { "title": "Dia Mundial de Luta Contra a AIDS", "type": "mundial" }
+    {
+      "title": "Dia Mundial de Combate à AIDS",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Numismata",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da União na Romênia",
+      "type": "mundial"
+    }
+  ],
+  "12-02": [
+    {
+      "title": "Dia Internacional da Abolição da Escravatura",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Pan-americano da Saúde",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Pátria no Laos",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Pátria nos Emirados Árabes Unidos",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Astrônomo",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia das Relações Públicas",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Samba",
+      "type": "nacional"
+    }
   ],
   "12-03": [
-    { "title": "Dia Internacional das Pessoas com Deficiência", "type": "mundial" }
+    {
+      "title": "Dia Internacional dos Portadores de Alergia Crônica",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional das Pessoas com Deficiência",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Delegado de Polícia",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional de Combate à Pirataria e à Biopirataria",
+      "type": "nacional"
+    }
+  ],
+  "12-04": [
+    {
+      "title": "Dia Mundial da Propaganda",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Orientador Educacional",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Perito Criminal",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Trabalhador nas Minas de Carvão",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Podólogo",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado municipal em Criciúma, Santa Catarina - Dia da Padroeira: Santa Bárbara",
+      "type": "nacional"
+    },
+    {
+      "title": "Festa de Santa Bárbara em Salvador, Bahia",
+      "type": "nacional"
+    }
   ],
   "12-05": [
-    { "title": "Dia Internacional do Voluntariado", "type": "mundial" }
+    {
+      "title": "Dia da Pátria na Tailândia - Feriado Nacional do País",
+      "type": "mundial"
+    },
+    {
+      "title": "Noite de São Nicolau nos Países Baixos",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Pregão de São Nicolau, em Guimarães, integrado nas seculares Festas Nicolinas",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Médico de Família e Comunidade",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Acessibilidade",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Pastoral da Criança",
+      "type": "nacional"
+    }
+  ],
+  "12-06": [
+    {
+      "title": "Dia da Constituição na Espanha",
+      "type": "mundial"
+    },
+    {
+      "title": "Rússia - Festa de São Nicolau",
+      "type": "mundial"
+    },
+    {
+      "title": "Independência da Finlândia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Extensão Rural",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional de Mobilização dos Homens pelo Fim da Violência Contra a Mulher",
+      "type": "nacional"
+    }
   ],
   "12-07": [
-    { "title": "Dia Internacional da Aviação Civil", "type": "mundial" }
+    {
+      "title": "Dia de Pearl Harbor (aniversário da invasão japonesa) - Data local nos Estados Unidos",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional da Aviação Civil",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Cirurgião Plástico",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Silvicultura",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Assistência Social",
+      "type": "nacional"
+    }
   ],
   "12-08": [
-    { "title": "Dia de Nossa Senhora da Conceição", "type": "curiosidade" }
+    {
+      "title": "Dia da Constituição na Romênia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional do Orgulho Pansexual",
+      "type": "mundial"
+    },
+    {
+      "title": "Início do Primeiro Concílio do Vaticano",
+      "type": "curiosidade",
+      "description": "Início do Primeiro Concílio do Vaticano, em 1869."
+    }
   ],
   "12-09": [
-    { "title": "Dia Internacional Contra a Corrupção", "type": "mundial" }
+    {
+      "title": "Dia Internacional contra a Corrupção",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Criança Especial",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional de Homenagem e Dignidade das Vítimas do Crime de Genocídio",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Fonoaudiólogo",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Alcoólico Recuperado",
+      "type": "nacional"
+    }
   ],
   "12-10": [
-    { "title": "Dia Internacional dos Direitos Humanos", "type": "mundial" }
+    {
+      "title": "Dia Internacional dos Direitos Humanos",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Palhaço",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Sociólogo",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia da Inclusão Social",
+      "type": "nacional"
+    }
+  ],
+  "12-11": [
+    {
+      "title": "Dia Internacional do Tango",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional das Montanhas",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional das APAEs",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Engenheiro",
+      "type": "nacional"
+    }
+  ],
+  "12-12": [
+    {
+      "title": "Dia Internacional da Criança na Mídia",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional do Heavy Metal",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional da Cobertura Universal da Saúde",
+      "type": "mundial"
+    },
+    {
+      "title": "Feriado municipal em Cachoeira Paulista, São Paulo - Homenagem ao monsenhor Jonas Abib, fundador da Canção…",
+      "type": "nacional",
+      "description": "Feriado municipal em Cachoeira Paulista, São Paulo - Homenagem ao monsenhor Jonas Abib, fundador da Canção Nova."
+    }
+  ],
+  "12-13": [
+    {
+      "title": "Dia Nacional da Pessoa com Deficiência Visual",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Marinheiro",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Pedreiro",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Engenheiro Avaliador e Perito de Engenharia",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Forró",
+      "type": "nacional"
+    },
+    {
+      "title": "Feriado municipal em Ibipitanga, Mossoró, Passa Quatro e dezenas de outros municípios brasileiros - Solenidade…",
+      "type": "nacional",
+      "description": "Feriado municipal em Ibipitanga, Mossoró, Passa Quatro e dezenas de outros municípios brasileiros - Solenidade de Santa Luzia, padroeira dessas cidades."
+    }
+  ],
+  "12-14": [
+    {
+      "title": "Dia Mundial do Macaco",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Nacional do Ministério Público",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Engenheiro de Pesca",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional de Combate à Pobreza",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Médico Alergista",
+      "type": "nacional"
+    }
+  ],
+  "12-15": [
+    {
+      "title": "Dia do Esperanto",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional do Chá",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Reino, nos Países Baixos",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Internacional da Conscientização e Orgulho Demigênero",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Mulher Advogada",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Arquiteto e Urbanista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Jardineiro",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional da Economia Solidária",
+      "type": "nacional"
+    }
+  ],
+  "12-16": [
+    {
+      "title": "Dia do Reservista",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Teatro Amador",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Tricolor",
+      "type": "nacional"
+    }
+  ],
+  "12-17": [
+    {
+      "title": "Dia Nacional do Bioma Pampa",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Pastor Presbiteriano",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Engenheiro de Produção",
+      "type": "nacional"
+    }
+  ],
+  "12-18": [
+    {
+      "title": "Dia Internacional dos Migrantes",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial da Língua Árabe",
+      "type": "mundial"
+    },
+    {
+      "title": "Os Aliados invadem Timor",
+      "type": "curiosidade",
+      "description": "Os Aliados invadem Timor, em 1941."
+    }
+  ],
+  "12-19": [
+    {
+      "title": "Emancipação política do Paraná",
+      "type": "nacional"
+    },
+    {
+      "title": "Início da Primeira Guerra da Indochina",
+      "type": "curiosidade",
+      "description": "Início da Primeira Guerra da Indochina, em 1946."
+    },
+    {
+      "title": "Índia anexa Damão e Diu, parte do Estado Português da Índia",
+      "type": "curiosidade",
+      "description": "Índia anexa Damão e Diu, parte do Estado Português da Índia, em 1961."
+    }
+  ],
+  "12-20": [
+    {
+      "title": "Dia Internacional da Solidariedade Humana",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Mecânico",
+      "type": "nacional"
+    },
+    {
+      "title": "Macau é entregue à China por Portugal",
+      "type": "curiosidade",
+      "description": "Macau é entregue à China por Portugal, em 1999."
+    }
+  ],
+  "12-21": [
+    {
+      "title": "Dia do Atleta",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia Mundial do Basquetebol",
+      "type": "mundial"
+    },
+    {
+      "title": "Solstício de Dezembro: começa o verão no hemisfério sul e o inverno no hemisfério norte",
+      "type": "mundial"
+    }
+  ],
+  "12-22": [
+    {
+      "title": "Dia da independência das Ilhas Marshall",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Consciência Ecológica",
+      "type": "mundial"
+    },
+    {
+      "title": "O Estado de Rondônia é criado",
+      "type": "curiosidade",
+      "description": "O Estado de Rondônia é criado, em 1981."
+    }
+  ],
+  "12-23": [
+    {
+      "title": "Primeira demonstração do transistor nos laboratórios Bell",
+      "type": "curiosidade",
+      "description": "Primeira demonstração do transistor nos laboratórios Bell, em 1947."
+    },
+    {
+      "title": "O romance Emma de Jane Austen é publicado pela primeira vez",
+      "type": "curiosidade",
+      "description": "O romance Emma de Jane Austen é publicado pela primeira vez, em 1815."
+    },
+    {
+      "title": "Um tsunami atinge a Indonésia deixando cerca de 400 mortos e milhares de feridos",
+      "type": "curiosidade",
+      "description": "Um tsunami atinge a Indonésia deixando cerca de 400 mortos e milhares de feridos, em 2018."
+    }
   ],
   "12-24": [
-    { "title": "Véspera de Natal", "type": "curiosidade" }
+    {
+      "title": "Véspera de Natal",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia do Órfão",
+      "type": "mundial"
+    },
+    {
+      "title": "Albânia torna-se uma república",
+      "type": "curiosidade",
+      "description": "Albânia torna-se uma república, em 1924."
+    }
   ],
   "12-25": [
-    { "title": "Natal", "type": "nacional" }
+    {
+      "title": "Dia do Natal",
+      "type": "mundial"
+    },
+    {
+      "title": "Lançamento do Telescópio Espacial James Webb",
+      "type": "curiosidade",
+      "description": "Lançamento do Telescópio Espacial James Webb, em 2021."
+    },
+    {
+      "title": "O Idílio Siegfried de Wagner é apresentado pela primeira vez",
+      "type": "curiosidade",
+      "description": "O Idílio Siegfried de Wagner é apresentado pela primeira vez, em 1870."
+    }
+  ],
+  "12-26": [
+    {
+      "title": "Dia da Lembrança",
+      "type": "mundial"
+    },
+    {
+      "title": "O 2º dia do Ciclo de Natal no Cristianismo Ocidental",
+      "type": "mundial"
+    },
+    {
+      "title": "Começa o primeiro Rally Paris-Dakar",
+      "type": "curiosidade",
+      "description": "Começa o primeiro Rally Paris-Dakar, em 1978."
+    }
+  ],
+  "12-27": [
+    {
+      "title": "Dia Internacional de Preparação Epidemiológica",
+      "type": "mundial"
+    },
+    {
+      "title": "O 3º dia do Ciclo de Natal no Cristianismo Ocidental",
+      "type": "mundial"
+    },
+    {
+      "title": "Inauguração do Abbey Theatre",
+      "type": "curiosidade",
+      "description": "Inauguração do Abbey Theatre, em 1904."
+    }
+  ],
+  "12-28": [
+    {
+      "title": "O 4º dia do Ciclo de Natal no Cristianismo Ocidental",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia da Marinha Mercante",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Salva-vidas",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia do Petroquímico",
+      "type": "nacional"
+    },
+    {
+      "title": "Dia Nacional do Cooperativismo de Crédito",
+      "type": "nacional"
+    }
+  ],
+  "12-29": [
+    {
+      "title": "O 5º dia do Ciclo de Natal no Cristianismo Ocidental",
+      "type": "mundial"
+    },
+    {
+      "title": "Thomas Edison patenteia o rádio",
+      "type": "curiosidade",
+      "description": "Thomas Edison patenteia o rádio, em 1891."
+    },
+    {
+      "title": "Inaugurado o Metropolitano de Lisboa",
+      "type": "curiosidade",
+      "description": "Inaugurado o Metropolitano de Lisboa, em 1959."
+    }
+  ],
+  "12-30": [
+    {
+      "title": "O 6º dia do Ciclo de Natal no Cristianismo Ocidental",
+      "type": "mundial"
+    },
+    {
+      "title": "Dia de Rizal nas Filipinas",
+      "type": "mundial"
+    },
+    {
+      "title": "A colônia britânica de Natal anexa a Zululândia",
+      "type": "curiosidade",
+      "description": "A colônia britânica de Natal anexa a Zululândia, em 1897."
+    }
   ],
   "12-31": [
-    { "title": "Véspera de Ano Novo", "type": "curiosidade" }
+    {
+      "title": "Corrida de São Silvestre",
+      "type": "nacional"
+    },
+    {
+      "title": "Noite de São Silvestre ou Véspera de Ano Novo",
+      "type": "nacional"
+    },
+    {
+      "title": "Último dia do século XX e do segundo milênio",
+      "type": "curiosidade",
+      "description": "Último dia do século XX e do segundo milênio, em 2000."
+    }
   ]
 }
