@@ -1,6 +1,6 @@
 {
   "name": "dose-diaria",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Extensão de navegador que avisa, ao abrir o navegador, quais datas comemorativas e curiosidades correspondem ao dia de hoje.",
   "private": true,
   "type": "module",
@@ -13,7 +13,11 @@
     "dates:verify": "node scripts/verify-dates.mjs",
     "icons": "node scripts/generate-icons.mjs"
   },
-  "keywords": ["browser-extension", "manifest-v3", "datas-comemorativas"],
+  "keywords": [
+    "browser-extension",
+    "manifest-v3",
+    "datas-comemorativas"
+  ],
   "author": "Israel Mendes",
   "license": "MIT",
   "devDependencies": {

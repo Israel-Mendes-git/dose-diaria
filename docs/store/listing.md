@@ -5,6 +5,10 @@ estão nesta mesma pasta.
 
 ---
 
+## Nome
+
+Dose Diária
+
 ## Resumo (máx. 250 caracteres)
 
 Ao abrir o navegador, receba uma notificação com as datas comemorativas do dia

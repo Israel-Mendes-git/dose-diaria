@@ -3,7 +3,7 @@ import packageJson from "./package.json" with { type: "json" };
 
 export default defineManifest({
   manifest_version: 3,
-  name: "Hoje é dia de...",
+  name: "Dose Diária",
   description:
     "Avisa, ao abrir o navegador, quais datas comemorativas e curiosidades correspondem ao dia de hoje.",
   version: packageJson.version,
